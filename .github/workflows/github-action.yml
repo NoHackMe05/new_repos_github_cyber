@@ -2,8 +2,8 @@ name: Extract New Cybersecurity Repos
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Exécution chaque dimanche à minuit
-  workflow_dispatch: # Permet d'exécuter manuellement l'action
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
 
 permissions:
   contents: write

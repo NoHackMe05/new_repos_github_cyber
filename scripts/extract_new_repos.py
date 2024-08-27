@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-# Fonction pour interroger l'API GitHub
+# Function for querying the GitHub API
 def search_github_repositories(query, sort="stars", order="desc", per_page=10, page=1):
     url = "https://api.github.com/search/repositories"
     headers = {"Accept": "application/vnd.github.v3+json"}
@@ -22,9 +22,9 @@ def search_github_repositories(query, sort="stars", order="desc", per_page=10, p
         print(f"Error: {response.status_code}")
         return None
 
-# Fonction principale pour extraire et sauvegarder les dépôts récents
+# Main function for extracting and saving recent repositories
 def extract_and_save_new_repositories():
-    # Calculer la date il y a 7 jours
+    # Calculate date 7 days ago
     last_week = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
     query = f"cybersecurity stars:>10 created:>{last_week}"
     
@@ -43,13 +43,13 @@ def extract_and_save_new_repositories():
                 "updated_at": repo["updated_at"]
             })
 
-        # Sauvegarder les résultats dans un fichier JSON
+        # Save results in a JSON file
         with open('new_cybersecurity_repos.json', 'w') as json_file:
             json.dump(repositories, json_file, indent=4)
         print("Les nouveaux dépôts ont été sauvegardés dans 'new_cybersecurity_repos.json'.")
     else:
         print("Aucun dépôt trouvé ou une erreur est survenue.")
 
-# Exécution du script
+# Script execution
 if __name__ == "__main__":
     extract_and_save_new_repositories()
