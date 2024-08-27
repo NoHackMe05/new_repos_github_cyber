@@ -27,8 +27,10 @@ jobs:
         run: |
           python scripts/extract_new_repos.py
 
-      - name: Upload result as an artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: new-cybersecurity-repos
-          path: new_cybersecurity_repos.json
+      - name: Commit and push JSON file
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add new_cybersecurity_repos.json
+          git commit -m "Update new cybersecurity repos [skip ci]"
+          git push origin main
