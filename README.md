@@ -25,7 +25,7 @@ This Python script is designed to query the GitHub API to retrieve and save new 
 
     ```sh
     git clone https://github.com/NoHackMe05/new_repos_github_cyber.git
-    cd votre-depot
+    cd new_repos_github_cyber
     ```
 
 2. Install the necessary dependencies:
