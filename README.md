@@ -23,14 +23,14 @@ This Python script is designed to query the GitHub API to retrieve and save new 
 
 1. Clone this repository:
 
-    ```sh
+    ```
     git clone https://github.com/NoHackMe05/new_repos_github_cyber.git
     cd new_repos_github_cyber
     ```
 
 2. Install the necessary dependencies:
 
-    ```sh
+    ```
     pip install requests
     ```
 
@@ -38,6 +38,6 @@ This Python script is designed to query the GitHub API to retrieve and save new 
 
 To run the script manually, use the following command:
 
-    ```sh
+    ```
     python extract_new_repos.py
     ```
