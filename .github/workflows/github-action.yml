@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * 0'  # Exécution chaque dimanche à minuit
   workflow_dispatch: # Permet d'exécuter manuellement l'action
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
