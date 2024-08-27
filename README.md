@@ -38,6 +38,6 @@ This Python script is designed to query the GitHub API to retrieve and save new 
 
 To run the script manually, use the following command:
 
-    ```
-    python extract_new_repos.py
-    ```
+```
+python extract_new_repos.py
+```
