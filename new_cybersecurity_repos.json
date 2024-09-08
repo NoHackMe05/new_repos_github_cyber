@@ -1,11 +1,20 @@
 [
     {
-        "name": "VeilTransfer",
-        "url": "https://github.com/infosecn1nja/VeilTransfer",
-        "description": "VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.",
-        "stars": 78,
-        "language": "Go",
-        "created_at": "2024-08-26T01:40:37Z",
-        "updated_at": "2024-08-31T10:57:32Z"
+        "name": "GhostStrike",
+        "url": "https://github.com/stivenhacker/GhostStrike",
+        "description": "Deploy stealthy reverse shells using advanced process hollowing with GhostStrike \u2013 a C++ tool for ethical hacking and Red Team operations.",
+        "stars": 83,
+        "language": "C++",
+        "created_at": "2024-09-03T01:41:53Z",
+        "updated_at": "2024-09-07T23:39:26Z"
+    },
+    {
+        "name": "3arthh4ck",
+        "url": "https://github.com/JaiiKun/3arthh4ck",
+        "description": "\"3arthh4ck\" is a cutting-edge cybersecurity tool designed to protect against advanced hacking techniques and safeguard digital assets. With its innovative threat detection algorithms and real-time monitoring capabilities, \"3arthh4ck\" provides top-notch security for individuals and organizations alike.",
+        "stars": 19,
+        "language": "Java",
+        "created_at": "2024-09-02T00:54:28Z",
+        "updated_at": "2024-09-05T15:02:02Z"
     }
 ]
