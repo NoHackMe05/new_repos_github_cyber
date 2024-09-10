@@ -2,11 +2,6 @@
 
 This Python script is designed to query the GitHub API to retrieve and save new cybersecurity-related repositories created in the last 7 days. The results are saved in a JSON file.
 
-## Author
-
-- **Name**: Bertrand LECLERCQ
-- **GitHub** : [@NoHackMe05](https://github.com/NoHackMe05)
-
 ## Features
 
 - Search for cybersecurity-related GitHub repositories with more than 10 stars.
