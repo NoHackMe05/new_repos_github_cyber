@@ -1,20 +1,11 @@
 [
     {
-        "name": "GhostStrike",
-        "url": "https://github.com/stivenhacker/GhostStrike",
-        "description": "Deploy stealthy reverse shells using advanced process hollowing with GhostStrike \u2013 a C++ tool for ethical hacking and Red Team operations.",
-        "stars": 83,
-        "language": "C++",
-        "created_at": "2024-09-03T01:41:53Z",
-        "updated_at": "2024-09-07T23:39:26Z"
-    },
-    {
-        "name": "3arthh4ck",
-        "url": "https://github.com/JaiiKun/3arthh4ck",
-        "description": "\"3arthh4ck\" is a cutting-edge cybersecurity tool designed to protect against advanced hacking techniques and safeguard digital assets. With its innovative threat detection algorithms and real-time monitoring capabilities, \"3arthh4ck\" provides top-notch security for individuals and organizations alike.",
-        "stars": 19,
-        "language": "Java",
-        "created_at": "2024-09-02T00:54:28Z",
-        "updated_at": "2024-09-05T15:02:02Z"
+        "name": "FastVulnVerify",
+        "url": "https://github.com/0xhav0c/FastVulnVerify",
+        "description": "FastVulnVerify is an advanced Python tool developed to quickly identify common vulnerabilities encountered during penetration testing and vulnerability verification processes. ",
+        "stars": 26,
+        "language": "Python",
+        "created_at": "2024-09-11T09:44:10Z",
+        "updated_at": "2024-09-14T13:31:13Z"
     }
 ]
