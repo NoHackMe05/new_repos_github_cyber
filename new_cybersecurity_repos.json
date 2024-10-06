@@ -1,11 +1,1 @@
-[
-    {
-        "name": "SimpleCrypter",
-        "url": "https://github.com/bytenano/SimpleCrypter",
-        "description": "A simple cryptor for .NET/Native files with Injection and obfuscation",
-        "stars": 35,
-        "language": "C#",
-        "created_at": "2024-09-23T00:44:26Z",
-        "updated_at": "2024-09-28T23:24:54Z"
-    }
-]
+[]
