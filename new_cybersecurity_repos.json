@@ -1,11 +1,11 @@
 [
     {
-        "name": "ios_forensics_suite",
-        "url": "https://github.com/piotrbania/ios_forensics_suite",
-        "description": "A tool for generating detailed, locally-processed reports from iOS backups, supporting encrypted and unencrypted data.",
-        "stars": 20,
+        "name": "reversingBits",
+        "url": "https://github.com/mohitmishra786/reversingBits",
+        "description": "A comprehensive collection of cheatsheets for reverse engineering, binary analysis, and assembly programming tools. This repository serves as a one-stop reference for security researchers, reverse engineers, and low-level programmers.",
+        "stars": 12,
         "language": "HTML",
-        "created_at": "2024-10-25T05:52:44Z",
-        "updated_at": "2024-10-27T01:03:53Z"
+        "created_at": "2024-11-01T17:02:04Z",
+        "updated_at": "2024-11-02T20:47:51Z"
     }
 ]
