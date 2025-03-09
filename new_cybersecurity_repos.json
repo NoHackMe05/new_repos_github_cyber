@@ -1,20 +1,11 @@
 [
     {
-        "name": "SOC-Home-Lab-Attack-Defense-Simulation",
-        "url": "https://github.com/xAHIINX00/SOC-Home-Lab-Attack-Defense-Simulation",
-        "description": "SOC Home Lab: Attack & Defense Simulation is a cybersecurity project that simulates real-world attack and defense scenarios in a controlled virtual environment. ",
-        "stars": 27,
-        "language": null,
-        "created_at": "2025-02-26T07:49:22Z",
-        "updated_at": "2025-03-01T23:49:13Z"
-    },
-    {
-        "name": "noCAP",
-        "url": "https://github.com/securesloth/noCAP",
-        "description": "Lightweight security tool for auditing your organization's Conditional Access Policies (CAPs) in Microsoft Entra ID for potential misconfigurations.",
-        "stars": 18,
+        "name": "derrick",
+        "url": "https://github.com/supdevinci/derrick",
+        "description": "Derrick is an advanced data leak scanning and CVE vulnerability analysis tool, designed for cybersecurity researchers and digital defense professionals.",
+        "stars": 20,
         "language": "Python",
-        "created_at": "2025-02-24T12:45:27Z",
-        "updated_at": "2025-03-01T22:30:37Z"
+        "created_at": "2025-03-05T22:54:20Z",
+        "updated_at": "2025-03-08T18:17:28Z"
     }
 ]
