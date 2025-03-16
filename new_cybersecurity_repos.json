@@ -1,11 +1,29 @@
 [
     {
-        "name": "derrick",
-        "url": "https://github.com/supdevinci/derrick",
-        "description": "Derrick is an advanced data leak scanning and CVE vulnerability analysis tool, designed for cybersecurity researchers and digital defense professionals.",
-        "stars": 20,
+        "name": "VulnViper",
+        "url": "https://github.com/koreyhacks/VulnViper",
+        "description": "Web Server Vulnerability Scanning Tool",
+        "stars": 28,
         "language": "Python",
-        "created_at": "2025-03-05T22:54:20Z",
-        "updated_at": "2025-03-08T18:17:28Z"
+        "created_at": "2025-03-11T19:16:54Z",
+        "updated_at": "2025-03-15T08:12:43Z"
+    },
+    {
+        "name": "OSINT-Tools",
+        "url": "https://github.com/yogsec/OSINT-Tools",
+        "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
+        "stars": 25,
+        "language": null,
+        "created_at": "2025-03-10T00:07:56Z",
+        "updated_at": "2025-03-15T17:18:07Z"
+    },
+    {
+        "name": "Social-Engineering-Tools",
+        "url": "https://github.com/yogsec/Social-Engineering-Tools",
+        "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
+        "stars": 23,
+        "language": null,
+        "created_at": "2025-03-12T01:18:44Z",
+        "updated_at": "2025-03-15T23:21:19Z"
     }
 ]
