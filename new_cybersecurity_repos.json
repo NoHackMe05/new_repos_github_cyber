@@ -1,29 +1,29 @@
 [
     {
-        "name": "VulnViper",
-        "url": "https://github.com/koreyhacks/VulnViper",
-        "description": "Web Server Vulnerability Scanning Tool",
-        "stars": 28,
-        "language": "Python",
-        "created_at": "2025-03-11T19:16:54Z",
-        "updated_at": "2025-03-15T08:12:43Z"
+        "name": "secbutler",
+        "url": "https://github.com/bewitchedott/secbutler",
+        "description": "The perfect butler for pentesters, bug-bounty hunters and security researchers cybersecurity, hacktoberfest, pentesting",
+        "stars": 33,
+        "language": "Go",
+        "created_at": "2025-03-17T20:59:19Z",
+        "updated_at": "2025-03-21T02:51:39Z"
     },
     {
-        "name": "OSINT-Tools",
-        "url": "https://github.com/yogsec/OSINT-Tools",
-        "description": "The OSINT Framework is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively.",
-        "stars": 25,
+        "name": "Hardware-Hacking-Tools",
+        "url": "https://github.com/yogsec/Hardware-Hacking-Tools",
+        "description": "Lists various tools used in hardware hacking. ",
+        "stars": 16,
         "language": null,
-        "created_at": "2025-03-10T00:07:56Z",
-        "updated_at": "2025-03-15T17:18:07Z"
+        "created_at": "2025-03-19T12:07:10Z",
+        "updated_at": "2025-03-22T18:26:36Z"
     },
     {
-        "name": "Social-Engineering-Tools",
-        "url": "https://github.com/yogsec/Social-Engineering-Tools",
-        "description": "A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.",
-        "stars": 23,
-        "language": null,
-        "created_at": "2025-03-12T01:18:44Z",
-        "updated_at": "2025-03-15T23:21:19Z"
+        "name": "PSFuzz",
+        "url": "https://github.com/faithfuldete/PSFuzz",
+        "description": "Proviesec Fuzz Scanner - dir/path web scanner bugbounty, cybersecurity, infosec, pentesting, security, security-tools",
+        "stars": 13,
+        "language": "Go",
+        "created_at": "2025-03-21T17:02:43Z",
+        "updated_at": "2025-03-23T00:23:45Z"
     }
 ]
