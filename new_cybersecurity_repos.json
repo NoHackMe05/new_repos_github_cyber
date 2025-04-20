@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "name": "ShadowPhish",
+        "url": "https://github.com/CyberSecurityUP/ShadowPhish",
+        "description": "ShadowPhish is an advanced APT awareness toolkit designed to simulate real-world phishing, malware delivery, deepfakes, smishing/vishing, and command & control attacks through an intuitive graphical interface. Perfect for cybersecurity training, red team education, and security awareness programs.",
+        "stars": 43,
+        "language": "Python",
+        "created_at": "2025-04-16T22:07:29Z",
+        "updated_at": "2025-04-19T23:19:42Z"
+    },
+    {
+        "name": "obsidian-cybersecurity",
+        "url": "https://github.com/JafarShamzsi/obsidian-cybersecurity",
+        "description": null,
+        "stars": 21,
+        "language": "HTML",
+        "created_at": "2025-04-14T13:21:51Z",
+        "updated_at": "2025-04-18T23:58:23Z"
+    }
+]
