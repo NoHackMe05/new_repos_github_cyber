@@ -1,11 +1,29 @@
 [
     {
-        "name": "ScamIntelLogs",
-        "url": "https://github.com/phishdestroy/ScamIntelLogs",
-        "description": "Preserving Telegram dumps of scammer activities for evidence and awareness",
-        "stars": 40,
-        "language": "HTML",
-        "created_at": "2025-04-21T03:02:51Z",
-        "updated_at": "2025-04-22T21:37:20Z"
+        "name": "Awesome-AI-For-Security",
+        "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security",
+        "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
+        "stars": 45,
+        "language": null,
+        "created_at": "2025-04-30T07:40:08Z",
+        "updated_at": "2025-05-02T17:05:07Z"
+    },
+    {
+        "name": "BrutyF-ey",
+        "url": "https://github.com/war-ilikelife/BrutyF-ey",
+        "description": "BrutyF is a powerful PHP-based password hash cracking tool designed to efficiently test wordlists against hashed passwords.",
+        "stars": 20,
+        "language": null,
+        "created_at": "2025-04-29T00:26:45Z",
+        "updated_at": "2025-05-01T14:33:05Z"
+    },
+    {
+        "name": "Awesome-Splunk-and-Elastic-SIEM-Practice-Labs",
+        "url": "https://github.com/ChickenLoner/Awesome-Splunk-and-Elastic-SIEM-Practice-Labs",
+        "description": "This repository dedicated to collect SIEM practice labs (Splunk and Elastic) from various cybersecurity training platforms",
+        "stars": 11,
+        "language": null,
+        "created_at": "2025-04-29T05:06:24Z",
+        "updated_at": "2025-05-01T13:23:32Z"
     }
 ]
