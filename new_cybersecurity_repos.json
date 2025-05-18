@@ -1,92 +1,11 @@
 [
     {
-        "name": "project-starbeam",
-        "url": "https://github.com/dkyazzentwatwa/project-starbeam",
-        "description": "The Ultimate ESP32 Jammer w/ 5 Radios.  #RIPflipper",
-        "stars": 59,
-        "language": "C++",
-        "created_at": "2025-05-08T04:54:33Z",
-        "updated_at": "2025-05-10T20:25:47Z"
-    },
-    {
-        "name": "sharpeye",
-        "url": "https://github.com/sgInnora/sharpeye",
-        "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
-        "stars": 58,
-        "language": "Python",
-        "created_at": "2025-05-08T01:25:22Z",
-        "updated_at": "2025-05-10T19:42:50Z"
-    },
-    {
-        "name": "Electron-Executor-ea",
-        "url": "https://github.com/ermingbear/Electron-Executor-ea",
+        "name": "Electron-Executor-i5",
+        "url": "https://github.com/helmximik/Electron-Executor-i5",
         "description": "Roblox Electron Executor is one of the most favorite Roblox Executors at the moment. Before I tell you how to download Electron Executor, let me tell you that it is currently available safely for Windows. But it is not officially available for Android users as of now but the update is coming and will be launched soon.",
-        "stars": 46,
+        "stars": 27,
         "language": null,
-        "created_at": "2025-05-05T02:30:29Z",
-        "updated_at": "2025-05-08T17:06:06Z"
-    },
-    {
-        "name": "AuthCrack-xt",
-        "url": "https://github.com/waldobarrel660/AuthCrack-xt",
-        "description": "AuthCrack is a Python-based brute-force login attack tool designed for ethical hacking and cybersecurity education, targeting self-hosted websites to highlight authentication flaws.",
-        "stars": 31,
-        "language": null,
-        "created_at": "2025-05-05T12:16:21Z",
-        "updated_at": "2025-05-08T15:46:08Z"
-    },
-    {
-        "name": "BrutyF-9t",
-        "url": "https://github.com/manimalhowkan44/BrutyF-9t",
-        "description": "BrutyF is a powerful PHP-based password hash cracking tool designed to efficiently test wordlists against hashed passwords.",
-        "stars": 31,
-        "language": null,
-        "created_at": "2025-05-05T12:16:29Z",
-        "updated_at": "2025-05-08T15:46:08Z"
-    },
-    {
-        "name": "BreakerZero_PasswordCracker_v1.0-qp",
-        "url": "https://github.com/nikanoya-100oi/BreakerZero_PasswordCracker_v1.0-qp",
-        "description": "Advanced red team password and hash cracking toolkit built for educational and ethical professional use.",
-        "stars": 31,
-        "language": null,
-        "created_at": "2025-05-05T12:06:39Z",
-        "updated_at": "2025-05-08T15:46:07Z"
-    },
-    {
-        "name": "AuthCrack-kz",
-        "url": "https://github.com/lairon35/AuthCrack-kz",
-        "description": "AuthCrack is a Python-based brute-force login attack tool designed for ethical hacking and cybersecurity education, targeting self-hosted websites to highlight authentication flaws.",
-        "stars": 26,
-        "language": null,
-        "created_at": "2025-05-05T00:00:26Z",
-        "updated_at": "2025-05-08T22:10:00Z"
-    },
-    {
-        "name": "BrutyF-v4",
-        "url": "https://github.com/leshiy-childprize/BrutyF-v4",
-        "description": "BrutyF is a powerful PHP-based password hash cracking tool designed to efficiently test wordlists against hashed passwords.",
-        "stars": 26,
-        "language": null,
-        "created_at": "2025-05-05T00:03:33Z",
-        "updated_at": "2025-05-08T22:10:00Z"
-    },
-    {
-        "name": "BR-EvilPortal-HTML-Files",
-        "url": "https://github.com/MrCl0wnLab/BR-EvilPortal-HTML-Files",
-        "description": "Reposit\u00f3rio criado com o objetivo de reunir arquivos HTML (telas de coleta) para uso como portal captive (Evil Portal), especificamente adaptados para o contexto brasileiro \ud83c\udde7\ud83c\uddf7.",
-        "stars": 17,
-        "language": "HTML",
-        "created_at": "2025-05-05T05:39:01Z",
-        "updated_at": "2025-05-10T17:39:45Z"
-    },
-    {
-        "name": "VulnVault",
-        "url": "https://github.com/Vip3r-MC/VulnVault",
-        "description": "A curated collection of CVEs, tools \ud83d\udee0\ufe0f, and scripts \ud83d\udcdc for vulnerability research, exploit testing, and cybersecurity analysis\u2014perfect for security researchers, penetration testers, and ethical hackers",
-        "stars": 11,
-        "language": "Python",
-        "created_at": "2025-05-06T04:44:52Z",
-        "updated_at": "2025-05-10T21:35:58Z"
+        "created_at": "2025-05-15T18:11:15Z",
+        "updated_at": "2025-05-17T21:25:14Z"
     }
 ]
