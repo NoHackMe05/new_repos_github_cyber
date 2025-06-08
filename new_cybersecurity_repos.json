@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "name": "awesome-blackhat-arsenal",
+        "url": "https://github.com/elbraino/awesome-blackhat-arsenal",
+        "description": "Curated collection of cybersecurity tools featured in Black Hat Arsenal events.",
+        "stars": 22,
+        "language": null,
+        "created_at": "2025-06-06T11:10:04Z",
+        "updated_at": "2025-06-08T01:17:43Z"
+    },
+    {
+        "name": "C3Mini-BlueJammer",
+        "url": "https://github.com/EmenstaNougat/C3Mini-BlueJammer",
+        "description": "The C3Mini-BlueJammer (MINI FORMFACTOR) (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. It generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.",
+        "stars": 15,
+        "language": null,
+        "created_at": "2025-06-02T19:09:57Z",
+        "updated_at": "2025-06-06T13:40:43Z"
+    }
+]
