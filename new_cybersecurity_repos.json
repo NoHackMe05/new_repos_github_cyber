@@ -1,29 +1,11 @@
 [
     {
-        "name": "flowhawk",
-        "url": "https://github.com/alexhraber/flowhawk",
-        "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
-        "stars": 32,
-        "language": "Go",
-        "created_at": "2025-06-09T06:00:08Z",
-        "updated_at": "2025-06-14T02:51:20Z"
-    },
-    {
-        "name": "zip-password-cracking-using-john-the-ripper",
-        "url": "https://github.com/NikhilRaj-2003/zip-password-cracking-using-john-the-ripper",
-        "description": "ZIP file password cracking using John-the-Ripper  ",
-        "stars": 18,
-        "language": null,
-        "created_at": "2025-06-13T07:53:12Z",
-        "updated_at": "2025-06-14T16:31:29Z"
-    },
-    {
-        "name": "awesome-blackhat-arsenal",
-        "url": "https://github.com/elbraino/awesome-blackhat-arsenal",
-        "description": "Curated collection of cybersecurity tools featured in Black Hat Arsenal events.",
-        "stars": 11,
+        "name": "TTPMapper",
+        "url": "https://github.com/infosecn1nja/TTPMapper",
+        "description": "TTPMapper is an AI-driven threat intelligence parser that converts unstructured reports whether from web URLs or PDF files into structured intelligence. Using the DeepSeek LLM, it extracts MITRE ATT&CK techniques, IOCs, threat actors, and generates contextual summaries.",
+        "stars": 27,
         "language": "Python",
-        "created_at": "2025-06-09T14:20:51Z",
-        "updated_at": "2025-06-15T00:48:48Z"
+        "created_at": "2025-06-19T09:27:54Z",
+        "updated_at": "2025-06-21T13:07:18Z"
     }
 ]
