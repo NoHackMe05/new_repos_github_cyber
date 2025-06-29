@@ -1,11 +1,1 @@
-[
-    {
-        "name": "TTPMapper",
-        "url": "https://github.com/infosecn1nja/TTPMapper",
-        "description": "TTPMapper is an AI-driven threat intelligence parser that converts unstructured reports whether from web URLs or PDF files into structured intelligence. Using the DeepSeek LLM, it extracts MITRE ATT&CK techniques, IOCs, threat actors, and generates contextual summaries.",
-        "stars": 27,
-        "language": "Python",
-        "created_at": "2025-06-19T09:27:54Z",
-        "updated_at": "2025-06-21T13:07:18Z"
-    }
-]
+[]
