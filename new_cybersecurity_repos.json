@@ -1,38 +1,20 @@
 [
     {
-        "name": "ESETSmartSecurityPremium",
-        "url": "https://github.com/Anyanboys/ESETSmartSecurityPremium",
-        "description": "Download ESET Smart Security Premium 2025 - Advanced Antivirus, Firewall, Ransomware Protection & Privacy Tools for Ultimate Cybersecurity",
-        "stars": 281,
-        "language": null,
-        "created_at": "2025-07-14T18:20:10Z",
-        "updated_at": "2025-07-18T16:28:41Z"
+        "name": "keklick",
+        "url": "https://github.com/0x6rss/keklick",
+        "description": "Keklick - C2 Hunting, Reporting and Visualization Tool",
+        "stars": 40,
+        "language": "HTML",
+        "created_at": "2025-07-22T23:28:24Z",
+        "updated_at": "2025-07-25T07:16:13Z"
     },
     {
-        "name": "KasperskyTotalSecurity",
-        "url": "https://github.com/786DC/KasperskyTotalSecurity",
-        "description": "Download Kaspersky Total Security 2025 - Advanced Antivirus Protection, Privacy Tools, VPN, Password Manager & Parental Control for Ultimate Cybersecurity",
-        "stars": 280,
-        "language": null,
-        "created_at": "2025-07-14T18:30:27Z",
-        "updated_at": "2025-07-18T16:28:42Z"
-    },
-    {
-        "name": "destroylist",
-        "url": "https://github.com/phishdestroy/destroylist",
-        "description": "An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems.",
-        "stars": 20,
-        "language": "Python",
-        "created_at": "2025-07-17T02:31:45Z",
-        "updated_at": "2025-07-19T17:54:25Z"
-    },
-    {
-        "name": "Mazesec-writeups",
-        "url": "https://github.com/hyhforevertop/Mazesec-writeups",
-        "description": "Mazesec\u56e2\u961f\u81ea\u5236\u9776\u673a\u9898\u89e3\u4ed3\u5e93\uff0c\u4e13\u6ce8\u4e8e\u5206\u4eabHackMyVM\u5e73\u53f0\u7684\u81ea\u5236\u9776\u673aPDF\u9898\u89e3\uff0c\u6db5\u76d6\u6e17\u900f\u6d4b\u8bd5\u5b9e\u6218\u4e0e\u5b89\u5168\u7814\u7a76\uff0c\u4f9b\u5b66\u4e60\u4ea4\u6d41\u4f7f\u7528\u3002",
-        "stars": 20,
-        "language": null,
-        "created_at": "2025-07-15T07:47:28Z",
-        "updated_at": "2025-07-19T03:25:19Z"
+        "name": "x-twitter-archive-CarlyGriggs13",
+        "url": "https://github.com/phishdestroy/x-twitter-archive-CarlyGriggs13",
+        "description": "Phishing takedown archive from @CarlyGriggs13 \u2014 138K tweets, scam domain reports, and threat intel blocked by X.",
+        "stars": 37,
+        "language": "HTML",
+        "created_at": "2025-07-23T03:32:13Z",
+        "updated_at": "2025-07-26T08:19:48Z"
     }
 ]
