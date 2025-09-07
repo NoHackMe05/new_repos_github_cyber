@@ -1,20 +1,20 @@
 [
     {
-        "name": "flowviz",
-        "url": "https://github.com/davidljohnson/flowviz",
-        "description": "AI-powered cybersecurity attack flow visualization tool using MITRE ATT&CK",
-        "stars": 48,
-        "language": "TypeScript",
-        "created_at": "2025-08-26T19:03:21Z",
-        "updated_at": "2025-08-31T01:06:41Z"
+        "name": "MalaysianOSINT",
+        "url": "https://github.com/ctkqiang/MalaysianOSINT",
+        "description": "\u9a6c\u6765\u897f\u4e9a OSINT \u534a\u81ea\u52a8\u67e5\u8be2\u5668\u662f\u4e00\u4e2a \u57fa\u4e8e C \u8bed\u8a00 \u7684\u8f7b\u91cf\u7ea7 HTTP \u670d\u52a1\uff0c\u4e13\u6ce8\u4e8e\u53cd\u8bc8\u9a97\u3001\u793e\u4f1a\u5de5\u7a0b\u5b66\u7814\u7a76\u548c\u6267\u6cd5\u8f85\u52a9\u573a\u666f\u3002 \u5b83\u901a\u8fc7\u5bf9\u63a5 \u9a6c\u6765\u897f\u4e9a\u7687\u5bb6\u8b66\u5bdf (PDRM) Semak Mule API\u3001\u79fb\u6c11\u5c40 SSPI \u7cfb\u7edf \u548c \u9a6c\u6765\u897f\u4e9a\u6cd5\u5ead\u8bb0\u5f55 (E-Court)\uff0c\u5b9e\u73b0\u5bf9\u7535\u8bdd\u53f7\u7801\u3001\u94f6\u884c\u8d26\u6237\u3001\u8eab\u4efd\u8bc1\u53f7\u7801\u4ee5\u53ca\u6cd5\u5ead\u6848\u4ef6\u4fe1\u606f\u7684\u534a\u81ea\u52a8\u5316\u67e5\u8be2\u3002",
+        "stars": 21,
+        "language": "C",
+        "created_at": "2025-09-04T14:29:11Z",
+        "updated_at": "2025-09-06T16:48:16Z"
     },
     {
-        "name": "SecuSploitX",
-        "url": "https://github.com/AUX-441/SecuSploitX",
-        "description": "Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.",
-        "stars": 16,
-        "language": "HTML",
-        "created_at": "2025-08-28T19:28:08Z",
-        "updated_at": "2025-08-30T21:52:38Z"
+        "name": "log-generator",
+        "url": "https://github.com/summved/log-generator",
+        "description": "This tool will be invaluable for: SIEM Testing - Generate realistic multi-source logs Security Training - Reproducible scenarios for education Development - Consistent test data for log processing systems Research - Controlled log generation for cybersecurity studies",
+        "stars": 14,
+        "language": "TypeScript",
+        "created_at": "2025-09-04T07:39:51Z",
+        "updated_at": "2025-09-06T18:32:01Z"
     }
 ]
