@@ -1,20 +1,20 @@
 [
     {
-        "name": "MalaysianOSINT",
-        "url": "https://github.com/ctkqiang/MalaysianOSINT",
-        "description": "\u9a6c\u6765\u897f\u4e9a OSINT \u534a\u81ea\u52a8\u67e5\u8be2\u5668\u662f\u4e00\u4e2a \u57fa\u4e8e C \u8bed\u8a00 \u7684\u8f7b\u91cf\u7ea7 HTTP \u670d\u52a1\uff0c\u4e13\u6ce8\u4e8e\u53cd\u8bc8\u9a97\u3001\u793e\u4f1a\u5de5\u7a0b\u5b66\u7814\u7a76\u548c\u6267\u6cd5\u8f85\u52a9\u573a\u666f\u3002 \u5b83\u901a\u8fc7\u5bf9\u63a5 \u9a6c\u6765\u897f\u4e9a\u7687\u5bb6\u8b66\u5bdf (PDRM) Semak Mule API\u3001\u79fb\u6c11\u5c40 SSPI \u7cfb\u7edf \u548c \u9a6c\u6765\u897f\u4e9a\u6cd5\u5ead\u8bb0\u5f55 (E-Court)\uff0c\u5b9e\u73b0\u5bf9\u7535\u8bdd\u53f7\u7801\u3001\u94f6\u884c\u8d26\u6237\u3001\u8eab\u4efd\u8bc1\u53f7\u7801\u4ee5\u53ca\u6cd5\u5ead\u6848\u4ef6\u4fe1\u606f\u7684\u534a\u81ea\u52a8\u5316\u67e5\u8be2\u3002",
-        "stars": 21,
-        "language": "C",
-        "created_at": "2025-09-04T14:29:11Z",
-        "updated_at": "2025-09-06T16:48:16Z"
+        "name": "SecNN-Wiki",
+        "url": "https://github.com/SecNN/SecNN-Wiki",
+        "description": "Wiki\u6f0f\u6d1e\u5e93\u7ba1\u7406\u7cfb\u7edf&\u7f51\u7edc\u5b89\u5168\u77e5\u8bc6\u5e93-\u6e17\u900f\u6d4b\u8bd5\u5e38\u89c1\u6f0f\u6d1e\u77e5\u8bc6\u5e93\u6587\u6863-\u8be5\u7f51\u7ad9\u6536\u96c6\u4e86Web\u5e94\u7528\u5c42\u6f0f\u6d1e\u3001\u4e2d\u95f4\u4ef6\u5b89\u5168\u7f3a\u9677\u3001\u7cfb\u7edf\u914d\u7f6e\u4e0d\u5f53\u3001\u79fb\u52a8\u7aef\uff08Android\uff09\u5b89\u5168\u95ee\u9898\u3001\u6743\u9650\u63d0\u5347\u3001RCE\u3001\u7f51\u7edc\u8bbe\u5907\u53caIOT\u5b89\u5168\u3002",
+        "stars": 14,
+        "language": null,
+        "created_at": "2025-09-10T07:25:24Z",
+        "updated_at": "2025-09-12T17:14:19Z"
     },
     {
-        "name": "log-generator",
-        "url": "https://github.com/summved/log-generator",
-        "description": "This tool will be invaluable for: SIEM Testing - Generate realistic multi-source logs Security Training - Reproducible scenarios for education Development - Consistent test data for log processing systems Research - Controlled log generation for cybersecurity studies",
-        "stars": 14,
-        "language": "TypeScript",
-        "created_at": "2025-09-04T07:39:51Z",
-        "updated_at": "2025-09-06T18:32:01Z"
+        "name": "cybersecurity-interview-boilerplate",
+        "url": "https://github.com/wa1ki0g/cybersecurity-interview-boilerplate",
+        "description": "\u672c\u6765\u4e0d\u5c51\u4e8e\u770b\u9762\u8bd5\u9898\u7684\uff0c\u76f4\u5230\u78b0\u5230\u5927\u806a\u660e\u9762\u8bd5\u5b98\u95ee\u7684\u5927\u806a\u660e\u95ee\u9898\uff0c\u6240\u4ee5\u5c31\u722c\u4e86\u4e00\u4efd\uff0c\u6b22\u8fcePR\uff0c\u4e00\u8d77\u7ef4\u62a4\u4e00\u4e2a\u3002",
+        "stars": 13,
+        "language": null,
+        "created_at": "2025-09-12T05:50:49Z",
+        "updated_at": "2025-09-12T14:03:13Z"
     }
 ]
