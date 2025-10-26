@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "name": "AI-Powered-Vulnerability-Management",
+        "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
+        "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
+        "stars": 79,
+        "language": "Python",
+        "created_at": "2025-10-24T04:39:47Z",
+        "updated_at": "2025-10-26T01:03:51Z"
+    }
+]
