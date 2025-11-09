@@ -1,20 +1,11 @@
 [
     {
-        "name": "WebRecon",
-        "url": "https://github.com/techenthusiast167/WebRecon",
-        "description": "WebRecon Pro is an advanced Open Source Intelligence (OSINT) web reconnaissance tool designed for cybersecurity professionals, penetration testers, and security researchers. It automates the process of gathering intelligence from target websites through comprehensive crawling, data extraction, and analysis.",
-        "stars": 63,
-        "language": null,
-        "created_at": "2025-10-27T01:00:05Z",
-        "updated_at": "2025-10-30T11:53:15Z"
-    },
-    {
-        "name": "RedTiger-Tools",
-        "url": "https://github.com/izmirlikezzap/RedTiger-Tools",
-        "description": "RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)",
-        "stars": 42,
-        "language": "Python",
-        "created_at": "2025-11-01T18:09:25Z",
-        "updated_at": "2025-11-02T00:22:06Z"
+        "name": "OnlyShell",
+        "url": "https://github.com/malwarekid/OnlyShell",
+        "description": "A powerful Go-based multi-shell handler for managing multiple reverse shell connections simultaneously with features like shell type detection, background management, command broadcasting, and real-time interaction.",
+        "stars": 30,
+        "language": "Go",
+        "created_at": "2025-11-04T05:56:21Z",
+        "updated_at": "2025-11-08T12:55:12Z"
     }
 ]
