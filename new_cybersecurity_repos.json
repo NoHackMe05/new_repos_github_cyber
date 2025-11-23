@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "name": "god-eye",
+        "url": "https://github.com/Vyntral/god-eye",
+        "description": "AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs",
+        "stars": 81,
+        "language": "Go",
+        "created_at": "2025-11-19T16:49:56Z",
+        "updated_at": "2025-11-22T20:35:52Z"
+    },
+    {
+        "name": "RedTeam-Arsenal",
+        "url": "https://github.com/vvswift/RedTeam-Arsenal",
+        "description": "Red Team Arsenal - a comprehensive collection of tools, scripts, and techniques for conducting red team operations and adversary simulations, including custom beacons, malleable C2 profiles, aggressor scripts, advanced payload generation methods, as well as other evasion tools, tailored for red team operations and security research.",
+        "stars": 27,
+        "language": "C",
+        "created_at": "2025-11-17T13:23:54Z",
+        "updated_at": "2025-11-23T00:42:05Z"
+    },
+    {
+        "name": "How-AI-Detects-Rugpulls",
+        "url": "https://github.com/AmirhosseinHonardoust/How-AI-Detects-Rugpulls",
+        "description": "A deep technical article exploring how AI, feature engineering, and static smart-contract analysis uncover rugpull risks before humans detect them. Covers Solidity pattern mining, mint abuse detection, blacklist/fee manipulation signals, ML-inspired scoring models, and how to quantify ERC-20 token scam probability.",
+        "stars": 11,
+        "language": null,
+        "created_at": "2025-11-17T14:10:34Z",
+        "updated_at": "2025-11-22T08:39:53Z"
+    }
+]
