@@ -1,11 +1,20 @@
 [
     {
-        "name": "TheBigBrother",
-        "url": "https://github.com/chadi0x/TheBigBrother",
-        "description": "The Big Brother is a next-generation OSINT reconnaissance platform combining username enumeration across 473+ platforms with advanced **quad-vector visual intelligence** capabilities",
-        "stars": 66,
+        "name": "EVA",
+        "url": "https://github.com/ARCANGEL0/EVA",
+        "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration.",
+        "stars": 54,
         "language": "Python",
-        "created_at": "2025-12-08T13:34:35Z",
-        "updated_at": "2025-12-13T17:46:56Z"
+        "created_at": "2025-12-15T01:34:30Z",
+        "updated_at": "2025-12-19T16:42:18Z"
+    },
+    {
+        "name": "capsaicin",
+        "url": "https://github.com/hawtsauceTR/capsaicin",
+        "description": "Next-generation intelligent Web Fuzzer & Directory Scanner written in Go. Features WAF detection, secret scanning, auto-calibration, and smart 403 bypass",
+        "stars": 17,
+        "language": "Go",
+        "created_at": "2025-12-17T01:02:46Z",
+        "updated_at": "2025-12-18T09:37:45Z"
     }
 ]
