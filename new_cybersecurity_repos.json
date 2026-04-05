@@ -1,11 +1,20 @@
 [
     {
-        "name": "pentest-ai",
-        "url": "https://github.com/0xSteph/pentest-ai",
-        "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
-        "stars": 26,
-        "language": null,
-        "created_at": "2026-03-28T15:21:59Z",
-        "updated_at": "2026-03-29T00:48:39Z"
+        "name": "L0p4Map",
+        "url": "https://github.com/HaxL0p4/L0p4Map",
+        "description": "Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom IPs/websites.",
+        "stars": 99,
+        "language": "Python",
+        "created_at": "2026-03-30T00:37:52Z",
+        "updated_at": "2026-04-05T02:35:36Z"
+    },
+    {
+        "name": "cybermind",
+        "url": "https://github.com/thecnical/cybermind",
+        "description": "\u26a1 AI-powered cybersecurity CLI tool for Kali Linux | Ethical hacking | Penetration testing | Bug bounty",
+        "stars": 24,
+        "language": "Go",
+        "created_at": "2026-03-30T20:07:15Z",
+        "updated_at": "2026-04-04T23:49:14Z"
     }
 ]
