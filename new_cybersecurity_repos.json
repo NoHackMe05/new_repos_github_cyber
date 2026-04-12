@@ -1,20 +1,65 @@
 [
     {
-        "name": "L0p4Map",
-        "url": "https://github.com/HaxL0p4/L0p4Map",
-        "description": "Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom IPs/websites.",
-        "stars": 99,
+        "name": "nox-framework",
+        "url": "https://github.com/nox-project/nox-framework",
+        "description": "High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources.",
+        "stars": 122,
         "language": "Python",
-        "created_at": "2026-03-30T00:37:52Z",
-        "updated_at": "2026-04-05T02:35:36Z"
+        "created_at": "2026-04-07T08:17:10Z",
+        "updated_at": "2026-04-11T13:14:18Z"
     },
     {
-        "name": "cybermind",
-        "url": "https://github.com/thecnical/cybermind",
-        "description": "\u26a1 AI-powered cybersecurity CLI tool for Kali Linux | Ethical hacking | Penetration testing | Bug bounty",
-        "stars": 24,
-        "language": "Go",
-        "created_at": "2026-03-30T20:07:15Z",
-        "updated_at": "2026-04-04T23:49:14Z"
+        "name": "DeepZero",
+        "url": "https://github.com/416rehman/DeepZero",
+        "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
+        "stars": 67,
+        "language": "Python",
+        "created_at": "2026-04-07T01:51:34Z",
+        "updated_at": "2026-04-11T22:48:40Z"
+    },
+    {
+        "name": "htb-writeups",
+        "url": "https://github.com/momenbasel/htb-writeups",
+        "description": "The most comprehensive Hack The Box writeup collection - 500+ machines, 400+ challenges, interactive knowledge graph, skill trees, attack path diagrams, ProLabs, Sherlocks, OSCP/CPTS/CRTO prep. Browse: momenbasel.github.io/htb-writeups",
+        "stars": 33,
+        "language": "HTML",
+        "created_at": "2026-04-10T03:51:51Z",
+        "updated_at": "2026-04-11T22:41:09Z"
+    },
+    {
+        "name": "mac-cyber-bootstrap",
+        "url": "https://github.com/srhoe/mac-cyber-bootstrap",
+        "description": "Full macOS bootstrap for cybersecurity, CTF & bug bounty",
+        "stars": 32,
+        "language": "Shell",
+        "created_at": "2026-04-11T16:54:04Z",
+        "updated_at": "2026-04-12T02:06:16Z"
+    },
+    {
+        "name": "hyperhives-macos-infostealer-analysis",
+        "url": "https://github.com/Darksp33d/hyperhives-macos-infostealer-analysis",
+        "description": "Full static analysis of HyperHives macOS Rust infostealer \u2014 571 decrypted config values, C2 infrastructure, DPRK/Contagious Interview attribution, YARA/Sigma rules, STIX 2.1 bundle, ATT&CK Navigator layer",
+        "stars": 26,
+        "language": "Python",
+        "created_at": "2026-04-07T03:17:10Z",
+        "updated_at": "2026-04-11T22:48:33Z"
+    },
+    {
+        "name": "ai_osint",
+        "url": "https://github.com/7WaySecurity/ai_osint",
+        "description": "\ud83e\udd16 Curated AI OSINT resources \u2014 Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents",
+        "stars": 14,
+        "language": null,
+        "created_at": "2026-04-08T14:08:41Z",
+        "updated_at": "2026-04-10T21:30:24Z"
+    },
+    {
+        "name": "DFMI",
+        "url": "https://github.com/ccelikanil/DFMI",
+        "description": "Another FAFO project: Fileless execution by abusing MSI installers",
+        "stars": 13,
+        "language": "Python",
+        "created_at": "2026-04-09T10:32:26Z",
+        "updated_at": "2026-04-12T02:18:47Z"
     }
 ]
