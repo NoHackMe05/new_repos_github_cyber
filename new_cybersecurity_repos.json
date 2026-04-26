@@ -1,47 +1,20 @@
 [
     {
-        "name": "cve-mcp-server",
-        "url": "https://github.com/mukul975/cve-mcp-server",
-        "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs \u2014 CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
-        "stars": 234,
-        "language": "Python",
-        "created_at": "2026-04-14T11:20:00Z",
-        "updated_at": "2026-04-19T02:12:10Z"
-    },
-    {
-        "name": "awesome-cra-compliance",
-        "url": "https://github.com/cra-compliance-lab/awesome-cra-compliance",
-        "description": "Curated resources for the EU Cyber Resilience Act (Regulation 2024/2847): regulation, harmonised standards, EUCC, SBOM, vulnerability management, conformity assessment",
-        "stars": 18,
+        "name": "Discord-Token-Gen",
+        "url": "https://github.com/KenzCybSec/Discord-Token-Gen",
+        "description": "Educational cybersecurity tool with Discord utilities,\ud83c\udf89125 Star For Realesing\ud83c\udf89",
+        "stars": 28,
         "language": null,
-        "created_at": "2026-04-16T17:11:12Z",
-        "updated_at": "2026-04-19T02:08:53Z"
+        "created_at": "2026-04-25T14:46:25Z",
+        "updated_at": "2026-04-26T01:07:47Z"
     },
     {
-        "name": "xnew",
-        "url": "https://github.com/jsmonhq/xnew",
-        "description": "xnew is a fast, low-memory CLI that appends only unique lines to files. Built in Go for large datasets, it streams input efficiently and scales cleanly from thousands to hundreds of millions of lines.",
-        "stars": 17,
-        "language": "Go",
-        "created_at": "2026-04-16T06:45:06Z",
-        "updated_at": "2026-04-18T01:39:12Z"
-    },
-    {
-        "name": "ZerZor",
-        "url": "https://github.com/hamzawih0/ZerZor",
-        "description": "Zerzor is all about studying cybersecurity practices, seeing what breaks, how it breaks, and most importantly\u2026 how to fix it like a pro.",
-        "stars": 12,
-        "language": null,
-        "created_at": "2026-04-14T18:49:51Z",
-        "updated_at": "2026-04-18T22:43:56Z"
-    },
-    {
-        "name": "LingXi",
-        "url": "https://github.com/adrian803/LingXi",
-        "description": "LingXi: multi-agent CTF and pentest framework originated from Tencent Security Hackathon",
-        "stars": 13,
-        "language": "Python",
-        "created_at": "2026-04-18T13:10:24Z",
-        "updated_at": "2026-04-19T02:46:48Z"
+        "name": "rvbbit-arsenal",
+        "url": "https://github.com/buter-chkalova/rvbbit-arsenal",
+        "description": "The Ultimate Offense & Defense Duality \u2013 Linux Kernel Rootkit and Its Perfect Cure",
+        "stars": 15,
+        "language": "C",
+        "created_at": "2026-04-20T22:33:30Z",
+        "updated_at": "2026-04-25T11:54:07Z"
     }
 ]
