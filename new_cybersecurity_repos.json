@@ -1,20 +1,20 @@
 [
     {
-        "name": "Discord-Token-Gen",
-        "url": "https://github.com/KenzCybSec/Discord-Token-Gen",
-        "description": "Educational cybersecurity tool with Discord utilities,\ud83c\udf89125 Star For Realesing\ud83c\udf89",
-        "stars": 28,
-        "language": null,
-        "created_at": "2026-04-25T14:46:25Z",
-        "updated_at": "2026-04-26T01:07:47Z"
+        "name": "Threatswarm",
+        "url": "https://github.com/mukul975/Threatswarm",
+        "description": "27 scope-enforced AI agents that run the full pentest kill-chain (recon \u2192 exploit \u2192 post-ex \u2192 DFIR \u2192 report) as a one-command Claude Code plugin. Backed by 754 MITRE-mapped skills.",
+        "stars": 21,
+        "language": "Python",
+        "created_at": "2026-04-29T14:46:18Z",
+        "updated_at": "2026-05-01T15:40:55Z"
     },
     {
-        "name": "rvbbit-arsenal",
-        "url": "https://github.com/buter-chkalova/rvbbit-arsenal",
-        "description": "The Ultimate Offense & Defense Duality \u2013 Linux Kernel Rootkit and Its Perfect Cure",
-        "stars": 15,
-        "language": "C",
-        "created_at": "2026-04-20T22:33:30Z",
-        "updated_at": "2026-04-25T11:54:07Z"
+        "name": "awesome-privacy-tools",
+        "url": "https://github.com/anondotli/awesome-privacy-tools",
+        "description": "Awesome privacy tools: encrypted messaging, anonymous email, VPNs, Tor, password managers, secure file sharing, browser privacy, and self-hosted privacy software.",
+        "stars": 20,
+        "language": null,
+        "created_at": "2026-04-27T21:38:58Z",
+        "updated_at": "2026-04-30T21:35:03Z"
     }
 ]
