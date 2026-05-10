@@ -1,20 +1,29 @@
 [
     {
-        "name": "Threatswarm",
-        "url": "https://github.com/mukul975/Threatswarm",
-        "description": "27 scope-enforced AI agents that run the full pentest kill-chain (recon \u2192 exploit \u2192 post-ex \u2192 DFIR \u2192 report) as a one-command Claude Code plugin. Backed by 754 MITRE-mapped skills.",
-        "stars": 21,
-        "language": "Python",
-        "created_at": "2026-04-29T14:46:18Z",
-        "updated_at": "2026-05-01T15:40:55Z"
+        "name": "kali-pentest",
+        "url": "https://github.com/x-glacier/kali-pentest",
+        "description": "Kali Linux penetration testing skill for AI agents (Claude Code, OpenClaw, Hermes Agent). 200+ CLI tools, 15 scenario playbooks. Autonomously plans attack paths, selects tools, and integrates results across phases to adapt the penetration strategy \u2014 with human approval gates for high-risk actions.",
+        "stars": 18,
+        "language": null,
+        "created_at": "2026-05-05T09:54:08Z",
+        "updated_at": "2026-05-10T02:28:18Z"
     },
     {
-        "name": "awesome-privacy-tools",
-        "url": "https://github.com/anondotli/awesome-privacy-tools",
-        "description": "Awesome privacy tools: encrypted messaging, anonymous email, VPNs, Tor, password managers, secure file sharing, browser privacy, and self-hosted privacy software.",
-        "stars": 20,
-        "language": null,
-        "created_at": "2026-04-27T21:38:58Z",
-        "updated_at": "2026-04-30T21:35:03Z"
+        "name": "HDN-Locator",
+        "url": "https://github.com/HasnainDarkNet/HDN-Locator",
+        "description": "HDN-Locator - Advanced GPS Location Tracker with Anti-Spoofing | Capture exact GPS coordinates | Fake YouTube video page | Works on Windows, Linux & macOS",
+        "stars": 14,
+        "language": "Python",
+        "created_at": "2026-05-04T19:21:05Z",
+        "updated_at": "2026-05-09T21:11:04Z"
+    },
+    {
+        "name": "OpenOSINT",
+        "url": "https://github.com/OpenOSINT/OpenOSINT",
+        "description": "AI-powered OSINT agent for the terminal. Investigate emails, usernames, domains and more using Claude, GPT-4 or local models.",
+        "stars": 12,
+        "language": "Python",
+        "created_at": "2026-05-06T11:12:42Z",
+        "updated_at": "2026-05-10T00:03:58Z"
     }
 ]
