@@ -1,29 +1,29 @@
 [
     {
-        "name": "kali-pentest",
-        "url": "https://github.com/x-glacier/kali-pentest",
-        "description": "Kali Linux penetration testing skill for AI agents (Claude Code, OpenClaw, Hermes Agent). 200+ CLI tools, 15 scenario playbooks. Autonomously plans attack paths, selects tools, and integrates results across phases to adapt the penetration strategy \u2014 with human approval gates for high-risk actions.",
-        "stars": 18,
-        "language": null,
-        "created_at": "2026-05-05T09:54:08Z",
-        "updated_at": "2026-05-10T02:28:18Z"
+        "name": "bughunter-ai",
+        "url": "https://github.com/h4ckologic/bughunter-ai",
+        "description": "Autonomous Bug Bounty Hunting Framework powered by Claude Code. 20 AI agents, state-machine orchestration, Burp Suite MCP, credential vault, LLM security track. Type 'hunt target.com' and let AI find the bugs.",
+        "stars": 16,
+        "language": "TypeScript",
+        "created_at": "2026-05-13T18:44:20Z",
+        "updated_at": "2026-05-16T20:59:27Z"
     },
     {
-        "name": "HDN-Locator",
-        "url": "https://github.com/HasnainDarkNet/HDN-Locator",
-        "description": "HDN-Locator - Advanced GPS Location Tracker with Anti-Spoofing | Capture exact GPS coordinates | Fake YouTube video page | Works on Windows, Linux & macOS",
-        "stars": 14,
-        "language": "Python",
-        "created_at": "2026-05-04T19:21:05Z",
-        "updated_at": "2026-05-09T21:11:04Z"
-    },
-    {
-        "name": "OpenOSINT",
-        "url": "https://github.com/OpenOSINT/OpenOSINT",
-        "description": "AI-powered OSINT agent for the terminal. Investigate emails, usernames, domains and more using Claude, GPT-4 or local models.",
+        "name": "Corporate-Emergency-Response-Guidance-Skill",
+        "url": "https://github.com/RMBRPK/Corporate-Emergency-Response-Guidance-Skill",
+        "description": "This skill is used to help organisations quickly establish an emergency response operational system that is controllable, auditable, reviewable and capable of sustainable evolution during sudden cybersecurity incidents.",
         "stars": 12,
         "language": "Python",
-        "created_at": "2026-05-06T11:12:42Z",
-        "updated_at": "2026-05-10T00:03:58Z"
+        "created_at": "2026-05-13T12:06:40Z",
+        "updated_at": "2026-05-15T01:48:38Z"
+    },
+    {
+        "name": "floatctf",
+        "url": "https://github.com/FloatCTF/floatctf",
+        "description": "\u57fa\u4e8e Rust \u7684\u5f00\u6e90 CTF \u5b9e\u8bad\u53ca\u7ade\u8d5b\u5e73\u53f0 | Open-source CTF training and competition platform based on Rust",
+        "stars": 12,
+        "language": "Shell",
+        "created_at": "2026-05-12T06:19:15Z",
+        "updated_at": "2026-05-15T12:07:59Z"
     }
 ]
