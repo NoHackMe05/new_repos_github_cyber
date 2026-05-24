@@ -1,29 +1,29 @@
 [
     {
-        "name": "bughunter-ai",
-        "url": "https://github.com/h4ckologic/bughunter-ai",
-        "description": "Autonomous Bug Bounty Hunting Framework powered by Claude Code. 20 AI agents, state-machine orchestration, Burp Suite MCP, credential vault, LLM security track. Type 'hunt target.com' and let AI find the bugs.",
-        "stars": 16,
-        "language": "TypeScript",
-        "created_at": "2026-05-13T18:44:20Z",
-        "updated_at": "2026-05-16T20:59:27Z"
+        "name": "poc-lab",
+        "url": "https://github.com/Unclecheng-li/poc-lab",
+        "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
+        "stars": 307,
+        "language": "C",
+        "created_at": "2026-05-20T13:31:52Z",
+        "updated_at": "2026-05-24T03:24:42Z"
     },
     {
-        "name": "Corporate-Emergency-Response-Guidance-Skill",
-        "url": "https://github.com/RMBRPK/Corporate-Emergency-Response-Guidance-Skill",
-        "description": "This skill is used to help organisations quickly establish an emergency response operational system that is controllable, auditable, reviewable and capable of sustainable evolution during sudden cybersecurity incidents.",
-        "stars": 12,
+        "name": "MailAccess",
+        "url": "https://github.com/KatrielMoses/MailAccess",
+        "description": "Free email OSINT tool, 800+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess",
+        "stars": 74,
         "language": "Python",
-        "created_at": "2026-05-13T12:06:40Z",
-        "updated_at": "2026-05-15T01:48:38Z"
+        "created_at": "2026-05-18T21:08:45Z",
+        "updated_at": "2026-05-24T03:19:09Z"
     },
     {
-        "name": "floatctf",
-        "url": "https://github.com/FloatCTF/floatctf",
-        "description": "\u57fa\u4e8e Rust \u7684\u5f00\u6e90 CTF \u5b9e\u8bad\u53ca\u7ade\u8d5b\u5e73\u53f0 | Open-source CTF training and competition platform based on Rust",
-        "stars": 12,
-        "language": "Shell",
-        "created_at": "2026-05-12T06:19:15Z",
-        "updated_at": "2026-05-15T12:07:59Z"
+        "name": "XJTU-cybersecurity-masters-graduation-guide",
+        "url": "https://github.com/xiaguwuwu/XJTU-cybersecurity-masters-graduation-guide",
+        "description": "\u5728\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u7f51\u7edc\u7a7a\u95f4\u5b89\u5168\u5b66\u9662\u653b\u8bfb\u4e13\u7855\u7684\u4e09\u5e74\uff0c\u88ab\u6548\u7387\u4f4e\u4e0b\u3001\u804c\u80fd\u5931\u6548\u7684\u6559\u52a1\u6298\u78e8\u5f97\u4e0d\u80dc\u5176\u6270\uff0c\u4e8e\u662f\u60f3\u5199\u4e00\u7bc7\u7b80\u5355\u7684\u64cd\u4f5c\u6307\u5357\uff0c\u5e0c\u671b\u80fd\u7ed9\u672a\u6765\u540c\u6837\u8ff7\u832b\u7684\u5e08\u59b9\u5e08\u5f1f\u4eec\u4e00\u70b9\u6709\u6548\u7684\u5e2e\u52a9\u3002",
+        "stars": 11,
+        "language": null,
+        "created_at": "2026-05-20T05:08:43Z",
+        "updated_at": "2026-05-23T04:26:34Z"
     }
 ]
