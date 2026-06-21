@@ -1,20 +1,29 @@
 [
     {
-        "name": "c2detect",
-        "url": "https://github.com/cognis-digital/c2detect",
-        "description": "C2 server fingerprinter \u2014 Cobalt Strike, Sliver, Mythic, Havoc, Brute Ratel",
-        "stars": 23,
-        "language": "Python",
-        "created_at": "2026-06-08T05:37:01Z",
-        "updated_at": "2026-06-14T02:22:26Z"
+        "name": "PentestingChecklist",
+        "url": "https://github.com/m14r41/PentestingChecklist",
+        "description": "Comprehensive, data-driven security assessment checklists across 23 platforms web, API, mobile, cloud, Active Directory, Kubernetes, LLM, and more. Expandable hierarchy, global search, progress tracking, export.",
+        "stars": 55,
+        "language": "TypeScript",
+        "created_at": "2026-06-17T18:25:49Z",
+        "updated_at": "2026-06-20T23:20:46Z"
     },
     {
-        "name": "honey-ai",
-        "url": "https://github.com/martidu4/honey-ai",
-        "description": "\ud83c\udf6f All-in-one AI honeypot powered by local LLMs. SSH, HTTP, FTP, Telnet, SMTP, MySQL, Redis, Git, VNC, RDP \u2014 with canary tokens, tarpits, GZIP bombs, and threat intel reporting.",
-        "stars": 11,
-        "language": "JavaScript",
-        "created_at": "2026-06-10T14:21:36Z",
-        "updated_at": "2026-06-13T13:37:26Z"
+        "name": "vigil365",
+        "url": "https://github.com/sameerk27/vigil365",
+        "description": "Self-hosted Microsoft 365 security operations dashboard \u2014 aggregates Defender XDR, Entra ID Protection, Intune, Compliance and more into one place.",
+        "stars": 31,
+        "language": "TypeScript",
+        "created_at": "2026-06-16T16:20:50Z",
+        "updated_at": "2026-06-21T03:18:07Z"
+    },
+    {
+        "name": "AI-Guardian",
+        "url": "https://github.com/HankLEE-1/AI-Guardian",
+        "description": "\u57fa\u4e8eAgent\u9a71\u52a8\u7684\u7f51\u7edc\u5b89\u5168\u6d41\u91cf\u76d1\u63a7\u4e0e\u5206\u6790\u5e73\u53f0\uff0c\u4e0b\u4e00\u4ee3AI\u9a71\u52a8\u7684\u5b89\u5168\u8fd0\u8425\u534f\u4f5c\u5e73\u53f0 \u2014 \u667a\u80fd\u544a\u8b66\u7814\u5224\u3001\u8d44\u4ea7\u5173\u8054\u3001\u534f\u540c\u5904\u7f6e\u4e0e\u81ea\u52a8\u5316\u62a5\u544a\u751f\u6210\uff0c\u4e3a\u62a4\u7f51\u884c\u52a8\u589e\u6dfb\u4e00\u628a\u5229\u5668\u3002",
+        "stars": 30,
+        "language": "Python",
+        "created_at": "2026-06-17T02:04:59Z",
+        "updated_at": "2026-06-19T04:10:51Z"
     }
 ]
