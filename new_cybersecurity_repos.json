@@ -1,29 +1,29 @@
 [
     {
-        "name": "PentestingChecklist",
-        "url": "https://github.com/m14r41/PentestingChecklist",
-        "description": "Comprehensive, data-driven security assessment checklists across 23 platforms web, API, mobile, cloud, Active Directory, Kubernetes, LLM, and more. Expandable hierarchy, global search, progress tracking, export.",
-        "stars": 55,
+        "name": "claude-mythos-ai-anthropic-desktop-app",
+        "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+        "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+        "stars": 88,
         "language": "TypeScript",
-        "created_at": "2026-06-17T18:25:49Z",
-        "updated_at": "2026-06-20T23:20:46Z"
+        "created_at": "2026-06-23T17:25:43Z",
+        "updated_at": "2026-06-27T18:14:29Z"
     },
     {
-        "name": "vigil365",
-        "url": "https://github.com/sameerk27/vigil365",
-        "description": "Self-hosted Microsoft 365 security operations dashboard \u2014 aggregates Defender XDR, Entra ID Protection, Intune, Compliance and more into one place.",
-        "stars": 31,
+        "name": "darknet-mcp-server",
+        "url": "https://github.com/badchars/darknet-mcp-server",
+        "description": "66-tool MCP server for dark web intelligence \u2014 breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+        "stars": 67,
         "language": "TypeScript",
-        "created_at": "2026-06-16T16:20:50Z",
-        "updated_at": "2026-06-21T03:18:07Z"
+        "created_at": "2026-06-23T18:45:38Z",
+        "updated_at": "2026-06-26T18:09:22Z"
     },
     {
-        "name": "AI-Guardian",
-        "url": "https://github.com/HankLEE-1/AI-Guardian",
-        "description": "\u57fa\u4e8eAgent\u9a71\u52a8\u7684\u7f51\u7edc\u5b89\u5168\u6d41\u91cf\u76d1\u63a7\u4e0e\u5206\u6790\u5e73\u53f0\uff0c\u4e0b\u4e00\u4ee3AI\u9a71\u52a8\u7684\u5b89\u5168\u8fd0\u8425\u534f\u4f5c\u5e73\u53f0 \u2014 \u667a\u80fd\u544a\u8b66\u7814\u5224\u3001\u8d44\u4ea7\u5173\u8054\u3001\u534f\u540c\u5904\u7f6e\u4e0e\u81ea\u52a8\u5316\u62a5\u544a\u751f\u6210\uff0c\u4e3a\u62a4\u7f51\u884c\u52a8\u589e\u6dfb\u4e00\u628a\u5229\u5668\u3002",
-        "stars": 30,
-        "language": "Python",
-        "created_at": "2026-06-17T02:04:59Z",
-        "updated_at": "2026-06-19T04:10:51Z"
+        "name": "SindriKit",
+        "url": "https://github.com/youssefnoob003/SindriKit",
+        "description": "A foundational C library for building operationally credible offensive capabilities",
+        "stars": 28,
+        "language": "C",
+        "created_at": "2026-06-22T11:37:24Z",
+        "updated_at": "2026-06-26T12:40:56Z"
     }
 ]
