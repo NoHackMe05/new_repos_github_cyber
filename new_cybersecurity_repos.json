@@ -1,56 +1,20 @@
 [
     {
-        "name": "SpotifyC2",
-        "url": "https://github.com/NirvanaOn/SpotifyC2",
-        "description": "SpotifyC2 is a cybersecurity research project that demonstrates cloud-based command communication using Spotify playlists for command retrieval and Telegram for output delivery, without requiring the Spotify Web API.",
-        "stars": 99,
-        "language": "C",
-        "created_at": "2026-06-29T17:10:09Z",
-        "updated_at": "2026-07-04T23:54:01Z"
-    },
-    {
-        "name": "GPT-5.6-Sol-Free",
-        "url": "https://github.com/soullive/GPT-5.6-Sol-Free",
-        "description": "GPT-5.6-Sol-Free OpenAI's flagship reasoning LLM (June 2026). SOTA on TerminalBench 2.1. Sol / Terra / Luna tiers with ultra reasoning mode. Outperforms Claude Mythos 5 on coding & cybersecurity benchmarks. Free ChatGPT desktop app, API guides, prompt templates & agentic workflow examples.",
-        "stars": 57,
-        "language": null,
-        "created_at": "2026-07-01T18:10:13Z",
-        "updated_at": "2026-07-04T23:46:08Z"
-    },
-    {
-        "name": "hacksguard",
-        "url": "https://github.com/Rhacknarok/hacksguard",
-        "description": " A blazingly fast, multi-threaded TUI malware analysis tool built in Rust. Features deep PE parsing, YARA scanning, and heuristic risk scoring.",
-        "stars": 43,
-        "language": "YARA",
-        "created_at": "2026-07-02T17:32:50Z",
-        "updated_at": "2026-07-05T03:06:22Z"
-    },
-    {
-        "name": "osint-terminal",
-        "url": "https://github.com/RojanSapkota/osint-terminal",
-        "description": "Self-hosted OSINT dashboard: 400+ keyless recon tools, a live 3D threat globe, and batch/case   investigation workflows, no API keys required.",
-        "stars": 26,
+        "name": "shortdot-evidence",
+        "url": "https://github.com/phishdestroy/shortdot-evidence",
+        "description": "ShortDot SA zone abuse evidence (6.2M domains). Automated Threat Intelligence & daily updated IOCs for .icu, .bond, .cyou, .sbs, .cfd, .buzz, .qpon.",
+        "stars": 41,
         "language": "Python",
-        "created_at": "2026-07-02T14:52:02Z",
-        "updated_at": "2026-07-04T20:48:47Z"
+        "created_at": "2026-07-06T12:28:46Z",
+        "updated_at": "2026-07-12T00:17:25Z"
     },
     {
-        "name": "lockstep",
-        "url": "https://github.com/caglaryalcin/lockstep",
-        "description": "Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.",
-        "stars": 14,
-        "language": "TypeScript",
-        "created_at": "2026-07-01T15:00:54Z",
-        "updated_at": "2026-07-03T23:33:14Z"
-    },
-    {
-        "name": "OSINT-Tools-Nigeria",
-        "url": "https://github.com/zerometa-hq/OSINT-Tools-Nigeria",
-        "description": "A specialized OSINT framework for high-signal investigations focused exclusively on the Nigerian landscape.",
-        "stars": 11,
+        "name": "Cisa-KEV-Threat-Intel-Orchestrator",
+        "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
+        "description": "Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
+        "stars": 16,
         "language": null,
-        "created_at": "2026-06-29T06:20:17Z",
-        "updated_at": "2026-07-03T08:00:33Z"
+        "created_at": "2026-07-10T12:29:18Z",
+        "updated_at": "2026-07-12T00:20:40Z"
     }
 ]
