@@ -1,29 +1,11 @@
 [
     {
-        "name": "AIGuardSIEM",
-        "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-        "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
-        "stars": 73,
-        "language": "C++",
-        "created_at": "2026-07-21T13:28:34Z",
-        "updated_at": "2026-07-26T01:10:25Z"
-    },
-    {
-        "name": "Wireless-Security-and-WiFi-Penetration-Testing",
-        "url": "https://github.com/armourinfosec/Wireless-Security-and-WiFi-Penetration-Testing",
-        "description": "Open, hands-on study notes on wireless security & Wi-Fi penetration testing (802.11, WEP/WPA/WPA2/WPA3, aircrack-ng). CC BY 4.0.",
-        "stars": 67,
-        "language": null,
-        "created_at": "2026-07-22T16:25:06Z",
-        "updated_at": "2026-07-26T02:33:31Z"
-    },
-    {
-        "name": "ULTRA-SPOOF-PR",
-        "url": "https://github.com/kxngoftheempire/ULTRA-SPOOF-PR",
-        "description": "A robust and customizable ULTRA SPOOF for PC systems, enabling easy switching of hardware identifiers for testing, development, or production environments.",
-        "stars": 49,
-        "language": null,
-        "created_at": "2026-07-20T18:54:42Z",
-        "updated_at": "2026-07-25T14:23:54Z"
+        "name": "shodan_reconsx",
+        "url": "https://github.com/DevCop95/shodan_reconsx",
+        "description": "Portable passive hostname reconnaissance through Shodan CTL",
+        "stars": 12,
+        "language": "Python",
+        "created_at": "2026-07-29T02:54:33Z",
+        "updated_at": "2026-07-31T14:45:36Z"
     }
 ]
