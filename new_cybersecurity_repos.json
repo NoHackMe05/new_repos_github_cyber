@@ -1,11 +1,29 @@
 [
     {
-        "name": "shodan_reconsx",
-        "url": "https://github.com/DevCop95/shodan_reconsx",
-        "description": "Portable passive hostname reconnaissance through Shodan CTL",
-        "stars": 12,
+        "name": "Claude-Mythos5-AI-Free-desktop",
+        "url": "https://github.com/claude-mythos5/Claude-Mythos5-AI-Free-desktop",
+        "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5. ",
+        "stars": 82,
+        "language": "TypeScript",
+        "created_at": "2026-08-04T18:12:07Z",
+        "updated_at": "2026-08-09T01:11:12Z"
+    },
+    {
+        "name": "Malware-Research-Hub",
+        "url": "https://github.com/darama22/Malware-Research-Hub",
+        "description": "Self-contained malware research hub: curated catalog of 80 families (1971-2024) + 2,699 real encrypted samples, indexed and searchable. Local Flask app, bilingual.",
+        "stars": 43,
         "language": "Python",
-        "created_at": "2026-07-29T02:54:33Z",
-        "updated_at": "2026-07-31T14:45:36Z"
+        "created_at": "2026-08-05T22:09:35Z",
+        "updated_at": "2026-08-09T01:15:01Z"
+    },
+    {
+        "name": "linux-terminal-mastery",
+        "url": "https://github.com/AsaEdgerunner/linux-terminal-mastery",
+        "description": "An open-source Linux terminal course from zero to Linux Power User.",
+        "stars": 24,
+        "language": null,
+        "created_at": "2026-08-06T15:30:50Z",
+        "updated_at": "2026-08-08T14:23:58Z"
     }
 ]
