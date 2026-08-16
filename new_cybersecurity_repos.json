@@ -1,29 +1,38 @@
 [
     {
-        "name": "Claude-Mythos5-AI-Free-desktop",
-        "url": "https://github.com/claude-mythos5/Claude-Mythos5-AI-Free-desktop",
-        "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5. ",
-        "stars": 82,
-        "language": "TypeScript",
-        "created_at": "2026-08-04T18:12:07Z",
-        "updated_at": "2026-08-09T01:11:12Z"
-    },
-    {
-        "name": "Malware-Research-Hub",
-        "url": "https://github.com/darama22/Malware-Research-Hub",
-        "description": "Self-contained malware research hub: curated catalog of 80 families (1971-2024) + 2,699 real encrypted samples, indexed and searchable. Local Flask app, bilingual.",
-        "stars": 43,
-        "language": "Python",
-        "created_at": "2026-08-05T22:09:35Z",
-        "updated_at": "2026-08-09T01:15:01Z"
-    },
-    {
-        "name": "linux-terminal-mastery",
-        "url": "https://github.com/AsaEdgerunner/linux-terminal-mastery",
-        "description": "An open-source Linux terminal course from zero to Linux Power User.",
-        "stars": 24,
+        "name": "enterprise-system-design",
+        "url": "https://github.com/DrHazemAli/enterprise-system-design",
+        "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+        "stars": 492,
         "language": null,
-        "created_at": "2026-08-06T15:30:50Z",
-        "updated_at": "2026-08-08T14:23:58Z"
+        "created_at": "2026-08-12T04:03:15Z",
+        "updated_at": "2026-08-16T00:41:50Z"
+    },
+    {
+        "name": "ag-cyber-lab",
+        "url": "https://github.com/ahmetgulerpy/ag-cyber-lab",
+        "description": "Open-source practical cybersecurity learning platform with structured lessons, guided labs, progress tracking, and a custom Lab Engine.",
+        "stars": 21,
+        "language": "TypeScript",
+        "created_at": "2026-08-11T05:39:56Z",
+        "updated_at": "2026-08-15T13:08:08Z"
+    },
+    {
+        "name": "SimpleReconURL",
+        "url": "https://github.com/osintbrazuca/SimpleReconURL",
+        "description": "Ferramenta de extra\u00e7\u00e3o e descoberta de URLs para fluxos de OSINT e reconhecimento",
+        "stars": 13,
+        "language": "Python",
+        "created_at": "2026-08-10T02:09:27Z",
+        "updated_at": "2026-08-12T12:21:30Z"
+    },
+    {
+        "name": "nexus-redfox",
+        "url": "https://github.com/shanduzgil/nexus-redfox",
+        "description": "NEXUS REDFOX \u2014 Local-first code intelligence and security analysis platform for developers and security researchers.",
+        "stars": 11,
+        "language": "Python",
+        "created_at": "2026-08-11T23:22:16Z",
+        "updated_at": "2026-08-13T16:33:07Z"
     }
 ]
