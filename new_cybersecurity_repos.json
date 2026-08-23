@@ -1,38 +1,47 @@
 [
     {
-        "name": "enterprise-system-design",
-        "url": "https://github.com/DrHazemAli/enterprise-system-design",
-        "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-        "stars": 492,
-        "language": null,
-        "created_at": "2026-08-12T04:03:15Z",
-        "updated_at": "2026-08-16T00:41:50Z"
+        "name": "Cybermes",
+        "url": "https://github.com/Zyrexnn/Cybermes",
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "stars": 104,
+        "language": "Python",
+        "created_at": "2026-08-19T13:25:08Z",
+        "updated_at": "2026-08-22T21:17:38Z"
     },
     {
-        "name": "ag-cyber-lab",
-        "url": "https://github.com/ahmetgulerpy/ag-cyber-lab",
-        "description": "Open-source practical cybersecurity learning platform with structured lessons, guided labs, progress tracking, and a custom Lab Engine.",
-        "stars": 21,
-        "language": "TypeScript",
-        "created_at": "2026-08-11T05:39:56Z",
-        "updated_at": "2026-08-15T13:08:08Z"
+        "name": "bugbountyrules",
+        "url": "https://github.com/sanjarbiy/bugbountyrules",
+        "description": "Behavioral-discipline skill turning an AI agent into a methodical, non-robotic bug-bounty & pentest hunter - 42 always-on rules: scope, coverage, no false positives, never quits early.",
+        "stars": 30,
+        "language": "Shell",
+        "created_at": "2026-08-17T18:15:38Z",
+        "updated_at": "2026-08-22T16:38:59Z"
     },
     {
-        "name": "SimpleReconURL",
-        "url": "https://github.com/osintbrazuca/SimpleReconURL",
-        "description": "Ferramenta de extra\u00e7\u00e3o e descoberta de URLs para fluxos de OSINT e reconhecimento",
+        "name": "Offensive-Windows-Privilege-Escalation",
+        "url": "https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation",
+        "description": "Offensive Windows Privilege Escalation \u2014 hands-on study notes: enumeration & methodology, service/scheduled-task misconfigs, UAC bypass, token-privilege abuse, the potato family, kernel exploits, and credential mining. Each technique with detection & defenses. CC BY 4.0.",
         "stars": 13,
-        "language": "Python",
-        "created_at": "2026-08-10T02:09:27Z",
-        "updated_at": "2026-08-12T12:21:30Z"
+        "language": null,
+        "created_at": "2026-08-19T20:01:54Z",
+        "updated_at": "2026-08-22T13:24:22Z"
     },
     {
-        "name": "nexus-redfox",
-        "url": "https://github.com/shanduzgil/nexus-redfox",
-        "description": "NEXUS REDFOX \u2014 Local-first code intelligence and security analysis platform for developers and security researchers.",
+        "name": "Offensive-File-Transfer-Techniques",
+        "url": "https://github.com/armourinfosec/Offensive-File-Transfer-Techniques",
+        "description": "Offensive File Transfer Techniques \u2014 hands-on study notes on moving files to and from a target during an engagement across every channel: HTTP/SMB/FTP/TFTP/WebDAV, netcat/socat, scp/rsync, LOLBAS/GTFOBins, base64 no-egress, Meterpreter, plus detection. CC BY 4.0.",
+        "stars": 12,
+        "language": null,
+        "created_at": "2026-08-19T19:23:07Z",
+        "updated_at": "2026-08-22T13:23:14Z"
+    },
+    {
+        "name": "Python-for-Security-Professionals",
+        "url": "https://github.com/armourinfosec/Python-for-Security-Professionals",
+        "description": "Python for Security Professionals \u2014 lab-driven study notes: language fundamentals, the standard library, concurrency and packaging, then building port scanners, log analysers, and recon tooling. 14 modules, 8 labs, 16 projects, 138 flashcards. CC BY 4.0.",
         "stars": 11,
-        "language": "Python",
-        "created_at": "2026-08-11T23:22:16Z",
-        "updated_at": "2026-08-13T16:33:07Z"
+        "language": null,
+        "created_at": "2026-08-19T18:46:38Z",
+        "updated_at": "2026-08-22T13:22:45Z"
     }
 ]
