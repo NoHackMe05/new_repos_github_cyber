@@ -1,47 +1,11 @@
 [
     {
-        "name": "Cybermes",
-        "url": "https://github.com/Zyrexnn/Cybermes",
-        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-        "stars": 104,
-        "language": "Python",
-        "created_at": "2026-08-19T13:25:08Z",
-        "updated_at": "2026-08-22T21:17:38Z"
-    },
-    {
-        "name": "bugbountyrules",
-        "url": "https://github.com/sanjarbiy/bugbountyrules",
-        "description": "Behavioral-discipline skill turning an AI agent into a methodical, non-robotic bug-bounty & pentest hunter - 42 always-on rules: scope, coverage, no false positives, never quits early.",
-        "stars": 30,
-        "language": "Shell",
-        "created_at": "2026-08-17T18:15:38Z",
-        "updated_at": "2026-08-22T16:38:59Z"
-    },
-    {
-        "name": "Offensive-Windows-Privilege-Escalation",
-        "url": "https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation",
-        "description": "Offensive Windows Privilege Escalation \u2014 hands-on study notes: enumeration & methodology, service/scheduled-task misconfigs, UAC bypass, token-privilege abuse, the potato family, kernel exploits, and credential mining. Each technique with detection & defenses. CC BY 4.0.",
-        "stars": 13,
-        "language": null,
-        "created_at": "2026-08-19T20:01:54Z",
-        "updated_at": "2026-08-22T13:24:22Z"
-    },
-    {
-        "name": "Offensive-File-Transfer-Techniques",
-        "url": "https://github.com/armourinfosec/Offensive-File-Transfer-Techniques",
-        "description": "Offensive File Transfer Techniques \u2014 hands-on study notes on moving files to and from a target during an engagement across every channel: HTTP/SMB/FTP/TFTP/WebDAV, netcat/socat, scp/rsync, LOLBAS/GTFOBins, base64 no-egress, Meterpreter, plus detection. CC BY 4.0.",
-        "stars": 12,
-        "language": null,
-        "created_at": "2026-08-19T19:23:07Z",
-        "updated_at": "2026-08-22T13:23:14Z"
-    },
-    {
-        "name": "Python-for-Security-Professionals",
-        "url": "https://github.com/armourinfosec/Python-for-Security-Professionals",
-        "description": "Python for Security Professionals \u2014 lab-driven study notes: language fundamentals, the standard library, concurrency and packaging, then building port scanners, log analysers, and recon tooling. 14 modules, 8 labs, 16 projects, 138 flashcards. CC BY 4.0.",
+        "name": "Cyber-Bank-Security-Game",
+        "url": "https://github.com/deneshwaran/Cyber-Bank-Security-Game",
+        "description": "Cyber Bank Security Game is an interactive web-based cybersecurity game developed using HTML, CSS, and JavaScript",
         "stars": 11,
-        "language": null,
-        "created_at": "2026-08-19T18:46:38Z",
-        "updated_at": "2026-08-22T13:22:45Z"
+        "language": "JavaScript",
+        "created_at": "2026-08-24T07:03:21Z",
+        "updated_at": "2026-08-28T05:48:57Z"
     }
 ]
