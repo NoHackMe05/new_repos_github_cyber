@@ -1,11 +1,11 @@
 [
     {
-        "name": "Cyber-Bank-Security-Game",
-        "url": "https://github.com/deneshwaran/Cyber-Bank-Security-Game",
-        "description": "Cyber Bank Security Game is an interactive web-based cybersecurity game developed using HTML, CSS, and JavaScript",
-        "stars": 11,
-        "language": "JavaScript",
-        "created_at": "2026-08-24T07:03:21Z",
-        "updated_at": "2026-08-28T05:48:57Z"
+        "name": "Agent-2",
+        "url": "https://github.com/aaravshah1311/Agent-2",
+        "description": "Agent2 \u2014 An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent task execution.",
+        "stars": 85,
+        "language": "Python",
+        "created_at": "2026-09-04T11:03:14Z",
+        "updated_at": "2026-09-06T02:59:45Z"
     }
 ]
