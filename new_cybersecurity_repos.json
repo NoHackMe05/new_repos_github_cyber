@@ -1,11 +1,47 @@
 [
     {
-        "name": "Agent-2",
-        "url": "https://github.com/aaravshah1311/Agent-2",
-        "description": "Agent2 \u2014 An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent task execution.",
-        "stars": 85,
+        "name": "cyber-resume-reviewer-skill",
+        "url": "https://github.com/mubix/cyber-resume-reviewer-skill",
+        "description": "A skill to help cybersecurity folks update and tweak their resume",
+        "stars": 166,
         "language": "Python",
-        "created_at": "2026-09-04T11:03:14Z",
-        "updated_at": "2026-09-06T02:59:45Z"
+        "created_at": "2026-09-07T19:06:41Z",
+        "updated_at": "2026-09-12T17:17:55Z"
+    },
+    {
+        "name": "CVE-2026-41089-Netlogon-RCE-PoC",
+        "url": "https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+        "description": "CVE-2026-41089 Netlogon RCE PoC \u2014 security research, vulnerability validation & defensive testing.",
+        "stars": 75,
+        "language": null,
+        "created_at": "2026-09-11T10:34:35Z",
+        "updated_at": "2026-09-13T01:51:15Z"
+    },
+    {
+        "name": "riskops",
+        "url": "https://github.com/CodeByPinar/riskops",
+        "description": "BT ve siber g\u00fcvenlik risk y\u00f6netimi platformu \u2014 risk envanteri, 5\u00d75 de\u011ferlendirme, aksiyon takibi ve kurumsal raporlama. PHP 8.3 + MariaDB, framework ve CDN kullanmadan.",
+        "stars": 25,
+        "language": "PHP",
+        "created_at": "2026-09-11T13:13:56Z",
+        "updated_at": "2026-09-12T21:11:02Z"
+    },
+    {
+        "name": "ai-security-tool",
+        "url": "https://github.com/ZeroDayEvil/ai-security-tool",
+        "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
+        "stars": 17,
+        "language": "HTML",
+        "created_at": "2026-09-10T09:38:49Z",
+        "updated_at": "2026-09-12T01:32:43Z"
+    },
+    {
+        "name": "PentestPi",
+        "url": "https://github.com/weidutech/PentestPi",
+        "description": "Autonomous Penetration Testing Agent Framework with External State Memory & Anti-False-Falsification Guardrails.",
+        "stars": 15,
+        "language": "Python",
+        "created_at": "2026-09-09T06:51:08Z",
+        "updated_at": "2026-09-13T00:56:00Z"
     }
 ]
