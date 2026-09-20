@@ -1,47 +1,47 @@
 [
     {
-        "name": "cyber-resume-reviewer-skill",
-        "url": "https://github.com/mubix/cyber-resume-reviewer-skill",
-        "description": "A skill to help cybersecurity folks update and tweak their resume",
-        "stars": 166,
+        "name": "SmuggleMyPayload",
+        "url": "https://github.com/shaheeryasirofficial/SmuggleMyPayload",
+        "description": "SmuggleMyPayload generates HTML pages that embed and reconstruct files client-side using JavaScript. The toolkit offers multiple HTML Smuggling techniques, payload encoding options, JavaScript variations, and pre-built HTML templates.",
+        "stars": 36,
         "language": "Python",
-        "created_at": "2026-09-07T19:06:41Z",
-        "updated_at": "2026-09-12T17:17:55Z"
+        "created_at": "2026-09-15T11:53:05Z",
+        "updated_at": "2026-09-18T14:58:25Z"
     },
     {
-        "name": "CVE-2026-41089-Netlogon-RCE-PoC",
-        "url": "https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
-        "description": "CVE-2026-41089 Netlogon RCE PoC \u2014 security research, vulnerability validation & defensive testing.",
-        "stars": 75,
+        "name": "awesome-cissp",
+        "url": "https://github.com/vitalsecurity/awesome-cissp",
+        "description": "A last-mile CISSP guide for security architects: the business side of cyber (risk, governance, law, and the manager mindset)",
+        "stars": 22,
         "language": null,
-        "created_at": "2026-09-11T10:34:35Z",
-        "updated_at": "2026-09-13T01:51:15Z"
+        "created_at": "2026-09-17T04:15:38Z",
+        "updated_at": "2026-09-20T03:05:47Z"
     },
     {
-        "name": "riskops",
-        "url": "https://github.com/CodeByPinar/riskops",
-        "description": "BT ve siber g\u00fcvenlik risk y\u00f6netimi platformu \u2014 risk envanteri, 5\u00d75 de\u011ferlendirme, aksiyon takibi ve kurumsal raporlama. PHP 8.3 + MariaDB, framework ve CDN kullanmadan.",
-        "stars": 25,
-        "language": "PHP",
-        "created_at": "2026-09-11T13:13:56Z",
-        "updated_at": "2026-09-12T21:11:02Z"
-    },
-    {
-        "name": "ai-security-tool",
-        "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-        "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
-        "stars": 17,
+        "name": "human-incident-response-framework",
+        "url": "https://github.com/SoShinySoChrome/human-incident-response-framework",
+        "description": "A practitioner wellbeing framework for cybersecurity operations. Four injuries, four zones, and what to do about them.",
+        "stars": 21,
         "language": "HTML",
-        "created_at": "2026-09-10T09:38:49Z",
-        "updated_at": "2026-09-12T01:32:43Z"
+        "created_at": "2026-09-14T17:50:07Z",
+        "updated_at": "2026-09-19T07:37:27Z"
     },
     {
-        "name": "PentestPi",
-        "url": "https://github.com/weidutech/PentestPi",
-        "description": "Autonomous Penetration Testing Agent Framework with External State Memory & Anti-False-Falsification Guardrails.",
-        "stars": 15,
-        "language": "Python",
-        "created_at": "2026-09-09T06:51:08Z",
-        "updated_at": "2026-09-13T00:56:00Z"
+        "name": "hyc",
+        "url": "https://github.com/Arcanum-Sec/hyc",
+        "description": "http://arcanum-sec.github.io/hyc/ - Hacking Your Career \u2014 a roadmap and verified resource library for becoming the strongest cybersecurity candidate you can be.",
+        "stars": 16,
+        "language": "HTML",
+        "created_at": "2026-09-16T03:32:20Z",
+        "updated_at": "2026-09-19T16:02:26Z"
+    },
+    {
+        "name": "Awesome-AI-for-Hacking-Cybersecurity",
+        "url": "https://github.com/Laprovittera/Awesome-AI-for-Hacking-Cybersecurity",
+        "description": "Lista curada y fusionada de agentes, herramientas, frameworks, modelos y papers de IA aplicada al hacking, pentesting y ciberseguridad (ofensiva y defensiva), y a la seguridad de los propios sistemas de IA (LLMs, agentes, MCP). Fusi\u00f3n verificada de 8 awesome lists de la comunidad.",
+        "stars": 11,
+        "language": null,
+        "created_at": "2026-09-15T17:00:35Z",
+        "updated_at": "2026-09-18T06:32:41Z"
     }
 ]
