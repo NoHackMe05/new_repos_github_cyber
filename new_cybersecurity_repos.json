@@ -1,47 +1,20 @@
 [
     {
-        "name": "SmuggleMyPayload",
-        "url": "https://github.com/shaheeryasirofficial/SmuggleMyPayload",
-        "description": "SmuggleMyPayload generates HTML pages that embed and reconstruct files client-side using JavaScript. The toolkit offers multiple HTML Smuggling techniques, payload encoding options, JavaScript variations, and pre-built HTML templates.",
-        "stars": 36,
-        "language": "Python",
-        "created_at": "2026-09-15T11:53:05Z",
-        "updated_at": "2026-09-18T14:58:25Z"
+        "name": "The-BlackHAT-roadmap",
+        "url": "https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap",
+        "description": "The complete hacking & penetration testing roadmap. From beginner to elite. 44,982 lines, 150+ Diagram across the roadmap: OPSEC, web security, Active Directory, binary exploitation, EDR evasion, and 0-day research. 300+ tools, 200+ MITRE techniques, C & Rust payloads, lab guides, books, courses, blogs, practice platforms, and AI security resources",
+        "stars": 20,
+        "language": "C",
+        "created_at": "2026-09-25T21:12:58Z",
+        "updated_at": "2026-09-26T17:53:45Z"
     },
     {
-        "name": "awesome-cissp",
-        "url": "https://github.com/vitalsecurity/awesome-cissp",
-        "description": "A last-mile CISSP guide for security architects: the business side of cyber (risk, governance, law, and the manager mindset)",
-        "stars": 22,
-        "language": null,
-        "created_at": "2026-09-17T04:15:38Z",
-        "updated_at": "2026-09-20T03:05:47Z"
-    },
-    {
-        "name": "human-incident-response-framework",
-        "url": "https://github.com/SoShinySoChrome/human-incident-response-framework",
-        "description": "A practitioner wellbeing framework for cybersecurity operations. Four injuries, four zones, and what to do about them.",
-        "stars": 21,
-        "language": "HTML",
-        "created_at": "2026-09-14T17:50:07Z",
-        "updated_at": "2026-09-19T07:37:27Z"
-    },
-    {
-        "name": "hyc",
-        "url": "https://github.com/Arcanum-Sec/hyc",
-        "description": "http://arcanum-sec.github.io/hyc/ - Hacking Your Career \u2014 a roadmap and verified resource library for becoming the strongest cybersecurity candidate you can be.",
-        "stars": 16,
-        "language": "HTML",
-        "created_at": "2026-09-16T03:32:20Z",
-        "updated_at": "2026-09-19T16:02:26Z"
-    },
-    {
-        "name": "Awesome-AI-for-Hacking-Cybersecurity",
-        "url": "https://github.com/Laprovittera/Awesome-AI-for-Hacking-Cybersecurity",
-        "description": "Lista curada y fusionada de agentes, herramientas, frameworks, modelos y papers de IA aplicada al hacking, pentesting y ciberseguridad (ofensiva y defensiva), y a la seguridad de los propios sistemas de IA (LLMs, agentes, MCP). Fusi\u00f3n verificada de 8 awesome lists de la comunidad.",
-        "stars": 11,
-        "language": null,
-        "created_at": "2026-09-15T17:00:35Z",
-        "updated_at": "2026-09-18T06:32:41Z"
+        "name": "pcybox-attackgraph",
+        "url": "https://github.com/Mister-iks/pcybox-attackgraph",
+        "description": "Open source browser lab to build a simulated infrastructure, watch an attack move through it, and check whether your defense works.",
+        "stars": 13,
+        "language": "TypeScript",
+        "created_at": "2026-09-25T19:24:52Z",
+        "updated_at": "2026-09-27T02:56:20Z"
     }
 ]
