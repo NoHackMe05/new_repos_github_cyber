@@ -1,29 +1,83 @@
 [
     {
-        "name": "bug-bounty-hunting-prompts",
-        "url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
-        "description": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow",
-        "stars": 162,
+        "name": "awesome-reverse-engineering",
+        "url": "https://github.com/morluto/awesome-reverse-engineering",
+        "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+        "stars": 62,
         "language": null,
-        "created_at": "2026-09-30T05:43:35Z",
-        "updated_at": "2026-10-04T04:33:21Z"
+        "created_at": "2026-10-09T14:58:20Z",
+        "updated_at": "2026-10-11T04:08:09Z"
     },
     {
-        "name": "Snitch",
-        "url": "https://github.com/aixisstudio/Snitch",
-        "description": "Real-time network traffic visualizer \u2014 see every connection your computer makes. Privacy-first, 100% local. / Visualiseur de trafic r\u00e9seau en temps r\u00e9el, 100% local.",
-        "stars": 20,
+        "name": "Cyber-Frost-Harness",
+        "url": "https://github.com/Blackfrost-AI/Cyber-Frost-Harness",
+        "description": "Native red, blue, and purple security-agent harness for CYBER-FROST",
+        "stars": 50,
         "language": "Python",
-        "created_at": "2026-10-01T15:47:55Z",
-        "updated_at": "2026-10-04T04:37:55Z"
+        "created_at": "2026-10-05T13:53:31Z",
+        "updated_at": "2026-10-07T20:26:34Z"
     },
     {
-        "name": "jailbreak-archives",
-        "url": "https://github.com/e2sy/jailbreak-archives",
-        "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models \u2014 for AI safety research, red-teaming, and defensive hardening.",
-        "stars": 12,
-        "language": "Roff",
-        "created_at": "2026-09-30T07:34:14Z",
-        "updated_at": "2026-10-04T01:56:05Z"
+        "name": "Cybersecurity-Mastery",
+        "url": "https://github.com/STD-DEEPANSHU/Cybersecurity-Mastery",
+        "description": null,
+        "stars": 29,
+        "language": null,
+        "created_at": "2026-10-07T11:14:00Z",
+        "updated_at": "2026-10-08T11:11:09Z"
+    },
+    {
+        "name": "artex-ko-plus",
+        "url": "https://github.com/bdg9412/artex-ko-plus",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7AI \uae30\ubc18 \uce68\ud574\uc0ac\uace0 \ub300\uc751 \uae30\ub2a5 \ucd94\uac00 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "stars": 29,
+        "language": "Go",
+        "created_at": "2026-10-09T11:36:03Z",
+        "updated_at": "2026-10-11T04:06:30Z"
+    },
+    {
+        "name": "red-team-cybersecurity-roadmap",
+        "url": "https://github.com/fawadqureshi007/red-team-cybersecurity-roadmap",
+        "description": null,
+        "stars": 23,
+        "language": null,
+        "created_at": "2026-10-08T10:50:51Z",
+        "updated_at": "2026-10-10T07:29:26Z"
+    },
+    {
+        "name": "NucleiSniper",
+        "url": "https://github.com/MorDavid/NucleiSniper",
+        "description": "AI-powered Nuclei template prioritization using deep target fingerprinting and TypeSafe Jev to surface relevant security findings faster.",
+        "stars": 16,
+        "language": "Python",
+        "created_at": "2026-10-08T06:10:52Z",
+        "updated_at": "2026-10-10T20:15:36Z"
+    },
+    {
+        "name": "protocol-cybersecurity-101-bootcamp",
+        "url": "https://github.com/omsapate23/protocol-cybersecurity-101-bootcamp",
+        "description": null,
+        "stars": 15,
+        "language": "Python",
+        "created_at": "2026-10-07T06:42:47Z",
+        "updated_at": "2026-10-10T19:11:32Z"
+    },
+    {
+        "name": "open-aegis",
+        "url": "https://github.com/SoonGwan/open-aegis",
+        "description": "Self-hosted open source security validation workspace: approved scope, evidence and independent retests",
+        "stars": 14,
+        "language": "Python",
+        "created_at": "2026-10-05T16:24:24Z",
+        "updated_at": "2026-10-08T05:35:31Z"
+    },
+    {
+        "name": "HookRelay",
+        "url": "https://github.com/Abhishek-Gali/HookRelay",
+        "description": "Security-hardened webhook ingestion & multi-destination delivery gateway (GitHub \u2794 Discord, Slack, HTTP) with HMAC-SHA256 verification, durable SQL queueing, fencing leases, smart retries, and DLQ.",
+        "stars": 11,
+        "language": "Python",
+        "created_at": "2026-10-08T08:11:58Z",
+        "updated_at": "2026-10-09T04:41:26Z"
     }
 ]
