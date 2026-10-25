@@ -1,83 +1,74 @@
 [
     {
-        "name": "awesome-reverse-engineering",
-        "url": "https://github.com/morluto/awesome-reverse-engineering",
-        "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-        "stars": 62,
-        "language": null,
-        "created_at": "2026-10-09T14:58:20Z",
-        "updated_at": "2026-10-11T04:08:09Z"
+        "name": "php2shell-protection",
+        "url": "https://github.com/syhunt/php2shell-protection",
+        "description": "Defensive mitigation and testing toolkit for PHP security vulnerabilities (CVE-2026-109618, CVE-2026-109619, CVE-2026-115560), including Apache protections and PHP hardening guidance",
+        "stars": 111,
+        "language": "PHP",
+        "created_at": "2026-10-21T04:01:24Z",
+        "updated_at": "2026-10-24T23:13:03Z"
     },
     {
-        "name": "Cyber-Frost-Harness",
-        "url": "https://github.com/Blackfrost-AI/Cyber-Frost-Harness",
-        "description": "Native red, blue, and purple security-agent harness for CYBER-FROST",
-        "stars": 50,
+        "name": "PhoneHackScan",
+        "url": "https://github.com/UCYBERS/PhoneHackScan",
+        "description": "Android & iPhone intrusion check",
+        "stars": 75,
         "language": "Python",
-        "created_at": "2026-10-05T13:53:31Z",
-        "updated_at": "2026-10-07T20:26:34Z"
+        "created_at": "2026-10-21T18:35:37Z",
+        "updated_at": "2026-10-25T02:43:07Z"
     },
     {
-        "name": "Cybersecurity-Mastery",
-        "url": "https://github.com/STD-DEEPANSHU/Cybersecurity-Mastery",
-        "description": null,
+        "name": "argus",
+        "url": "https://github.com/thomasunise/argus",
+        "description": "Open-source agentic security operations platform:",
+        "stars": 58,
+        "language": "Python",
+        "created_at": "2026-10-24T16:12:28Z",
+        "updated_at": "2026-10-25T02:58:26Z"
+    },
+    {
+        "name": "DMA-Attack-rpocket-Firmware-Customization",
+        "url": "https://github.com/HellPixie33609/DMA-Attack-rpocket-Firmware-Customization",
+        "description": "This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board. It is intended for educational and research purposes only.",
         "stars": 29,
         "language": null,
-        "created_at": "2026-10-07T11:14:00Z",
-        "updated_at": "2026-10-08T11:11:09Z"
+        "created_at": "2026-10-23T07:06:20Z",
+        "updated_at": "2026-10-23T08:12:48Z"
     },
     {
-        "name": "artex-ko-plus",
-        "url": "https://github.com/bdg9412/artex-ko-plus",
-        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7AI \uae30\ubc18 \uce68\ud574\uc0ac\uace0 \ub300\uc751 \uae30\ub2a5 \ucd94\uac00 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-        "stars": 29,
-        "language": "Go",
-        "created_at": "2026-10-09T11:36:03Z",
-        "updated_at": "2026-10-11T04:06:30Z"
+        "name": "OsintHunter",
+        "url": "https://github.com/letox4/OsintHunter",
+        "description": "\ud83c\udfaf The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required.",
+        "stars": 22,
+        "language": "Python",
+        "created_at": "2026-10-21T00:43:34Z",
+        "updated_at": "2026-10-24T22:42:09Z"
     },
     {
-        "name": "red-team-cybersecurity-roadmap",
-        "url": "https://github.com/fawadqureshi007/red-team-cybersecurity-roadmap",
-        "description": null,
-        "stars": 23,
-        "language": null,
-        "created_at": "2026-10-08T10:50:51Z",
-        "updated_at": "2026-10-10T07:29:26Z"
+        "name": "DedSecLab",
+        "url": "https://github.com/QuacksOnWelfare/DedSecLab",
+        "description": "DedSecLab \u2014 open-source cyber lab: a Windows PyQt6 client, OpenVPN-gated FastAPI backend, and ForceCommand SSH ops menus in one tree. Run it on your own VPS with your own profiles.",
+        "stars": 20,
+        "language": "Python",
+        "created_at": "2026-10-19T15:26:24Z",
+        "updated_at": "2026-10-23T16:27:06Z"
     },
     {
-        "name": "NucleiSniper",
-        "url": "https://github.com/MorDavid/NucleiSniper",
-        "description": "AI-powered Nuclei template prioritization using deep target fingerprinting and TypeSafe Jev to surface relevant security findings faster.",
+        "name": "threat-actor-dataset",
+        "url": "https://github.com/BRANDEFENSE/threat-actor-dataset",
+        "description": "Open threat actor dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques with aliases, TTPs and sources. JSON, CSV, STIX 2.1.",
         "stars": 16,
-        "language": "Python",
-        "created_at": "2026-10-08T06:10:52Z",
-        "updated_at": "2026-10-10T20:15:36Z"
+        "language": null,
+        "created_at": "2026-10-23T09:14:42Z",
+        "updated_at": "2026-10-23T20:33:39Z"
     },
     {
-        "name": "protocol-cybersecurity-101-bootcamp",
-        "url": "https://github.com/omsapate23/protocol-cybersecurity-101-bootcamp",
-        "description": null,
-        "stars": 15,
-        "language": "Python",
-        "created_at": "2026-10-07T06:42:47Z",
-        "updated_at": "2026-10-10T19:11:32Z"
-    },
-    {
-        "name": "open-aegis",
-        "url": "https://github.com/SoonGwan/open-aegis",
-        "description": "Self-hosted open source security validation workspace: approved scope, evidence and independent retests",
-        "stars": 14,
-        "language": "Python",
-        "created_at": "2026-10-05T16:24:24Z",
-        "updated_at": "2026-10-08T05:35:31Z"
-    },
-    {
-        "name": "HookRelay",
-        "url": "https://github.com/Abhishek-Gali/HookRelay",
-        "description": "Security-hardened webhook ingestion & multi-destination delivery gateway (GitHub \u2794 Discord, Slack, HTTP) with HMAC-SHA256 verification, durable SQL queueing, fencing leases, smart retries, and DLQ.",
+        "name": "GS-HID-Script-Tool",
+        "url": "https://github.com/Ghoststrats/GS-HID-Script-Tool",
+        "description": "GS HID Script is a free, beginner-friendly cybersecurity education tool created by GhostStrats. Learn, build, simulate, and test keyboard and mouse automation using simple, easy-to-understand commands. Features include a visual script builder, hands-on testing, DuckyScript converter, and built-in safety controls. ",
         "stars": 11,
-        "language": "Python",
-        "created_at": "2026-10-08T08:11:58Z",
-        "updated_at": "2026-10-09T04:41:26Z"
+        "language": null,
+        "created_at": "2026-10-19T19:40:37Z",
+        "updated_at": "2026-10-24T01:57:22Z"
     }
 ]
