@@ -1,74 +1,74 @@
 [
     {
-        "name": "php2shell-protection",
-        "url": "https://github.com/syhunt/php2shell-protection",
-        "description": "Defensive mitigation and testing toolkit for PHP security vulnerabilities (CVE-2026-109618, CVE-2026-109619, CVE-2026-115560), including Apache protections and PHP hardening guidance",
-        "stars": 111,
-        "language": "PHP",
-        "created_at": "2026-10-21T04:01:24Z",
-        "updated_at": "2026-10-24T23:13:03Z"
+        "name": "watson-AI-osint-all-in-one",
+        "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+        "description": "Watson \u2014 free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+        "stars": 361,
+        "language": "TypeScript",
+        "created_at": "2026-10-28T00:09:33Z",
+        "updated_at": "2026-11-01T03:48:28Z"
     },
     {
-        "name": "PhoneHackScan",
-        "url": "https://github.com/UCYBERS/PhoneHackScan",
-        "description": "Android & iPhone intrusion check",
-        "stars": 75,
-        "language": "Python",
-        "created_at": "2026-10-21T18:35:37Z",
-        "updated_at": "2026-10-25T02:43:07Z"
-    },
-    {
-        "name": "argus",
-        "url": "https://github.com/thomasunise/argus",
-        "description": "Open-source agentic security operations platform:",
-        "stars": 58,
-        "language": "Python",
-        "created_at": "2026-10-24T16:12:28Z",
-        "updated_at": "2026-10-25T02:58:26Z"
+        "name": "R00tLib-Catalog",
+        "url": "https://github.com/Akil-x/R00tLib-Catalog",
+        "description": "A community-curated knowledge hub and catalog for computer science, cybersecurity & software engineering books",
+        "stars": 205,
+        "language": null,
+        "created_at": "2026-10-28T17:22:39Z",
+        "updated_at": "2026-10-31T22:14:41Z"
     },
     {
         "name": "DMA-Attack-rpocket-Firmware-Customization",
-        "url": "https://github.com/HellPixie33609/DMA-Attack-rpocket-Firmware-Customization",
+        "url": "https://github.com/PrinceAtDemon/DMA-Attack-rpocket-Firmware-Customization",
         "description": "This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board. It is intended for educational and research purposes only.",
-        "stars": 29,
-        "language": null,
-        "created_at": "2026-10-23T07:06:20Z",
-        "updated_at": "2026-10-23T08:12:48Z"
+        "stars": 94,
+        "language": "HTML",
+        "created_at": "2026-10-26T06:56:47Z",
+        "updated_at": "2026-10-31T17:45:12Z"
     },
     {
-        "name": "OsintHunter",
-        "url": "https://github.com/letox4/OsintHunter",
-        "description": "\ud83c\udfaf The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required.",
-        "stars": 22,
+        "name": "UmbrellaSpoofer-resocket",
+        "url": "https://github.com/LyraBelowElysium/UmbrellaSpoofer-resocket",
+        "description": "Umbrella Spoofer v2.0.4 scans hwid reset beside hwid checker. hwid ban tally, smbios board, volume label, nic oui, snapshot pair, disk serial, caller id, device fingerprint, webgl canvases. ",
+        "stars": 67,
+        "language": null,
+        "created_at": "2026-10-28T16:21:38Z",
+        "updated_at": "2026-10-31T18:03:10Z"
+    },
+    {
+        "name": "Houder-VPN",
+        "url": "https://github.com/HouderCODERS/Houder-VPN",
+        "description": "HouderVPN \u2014 Simple Windows VPN Client | Server Selection | One-Click Connection | Easy Setup",
+        "stars": 19,
+        "language": null,
+        "created_at": "2026-10-30T16:48:07Z",
+        "updated_at": "2026-10-30T18:03:15Z"
+    },
+    {
+        "name": "get-the-hacker",
+        "url": "https://github.com/buybitart/get-the-hacker",
+        "description": "Hunt WiFi threats silently. Catch the hackers.",
+        "stars": 17,
         "language": "Python",
-        "created_at": "2026-10-21T00:43:34Z",
-        "updated_at": "2026-10-24T22:42:09Z"
+        "created_at": "2026-10-27T11:47:36Z",
+        "updated_at": "2026-10-31T00:34:09Z"
     },
     {
-        "name": "DedSecLab",
-        "url": "https://github.com/QuacksOnWelfare/DedSecLab",
-        "description": "DedSecLab \u2014 open-source cyber lab: a Windows PyQt6 client, OpenVPN-gated FastAPI backend, and ForceCommand SSH ops menus in one tree. Run it on your own VPS with your own profiles.",
-        "stars": 20,
-        "language": "Python",
-        "created_at": "2026-10-19T15:26:24Z",
-        "updated_at": "2026-10-23T16:27:06Z"
+        "name": "Hodometer",
+        "url": "https://github.com/gary23w/Hodometer",
+        "description": "A single-file native Windows tray application (C, Win32, no runtime) that shows exactly which program is sending and receiving bytes and to which host.",
+        "stars": 17,
+        "language": "C",
+        "created_at": "2026-10-29T00:48:37Z",
+        "updated_at": "2026-10-31T18:42:00Z"
     },
     {
-        "name": "threat-actor-dataset",
-        "url": "https://github.com/BRANDEFENSE/threat-actor-dataset",
-        "description": "Open threat actor dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques with aliases, TTPs and sources. JSON, CSV, STIX 2.1.",
-        "stars": 16,
+        "name": "RE-Workstation",
+        "url": "https://github.com/SUNYT772/RE-Workstation",
+        "description": "\u9006\u5411\u5de5\u4f5c\u7ad9\uff5c\u4e00\u4e2a Skill\uff0c\u4e32\u8d77 22 \u4e2a\u6838\u5fc3\u9886\u57df\u4e0e 40 \u4e2a CTF \u4e13\u9898\u3002\u8986\u76d6 APK/iOS\u3001\u4e8c\u8fdb\u5236\u3001JS \u7b7e\u540d\u3001\u56fa\u4ef6\u3001\u8865\u4e01\u5dee\u5206\u3001Web/API\u3001\u6076\u610f\u4ee3\u7801\u3001LLM/Agent \u4e0e\u4f9b\u5e94\u94fe\u5b89\u5168\uff0c\u9644 30 \u4efd\u7ecf\u9a8c\u4e0e\u7d22\u5f15\u6750\u6599\u3001\u6280\u672f\u62a5\u544a\u4e0e\u56fe\u8868\u53c2\u8003\u3002\u6309\u4efb\u52a1\u5b9a\u4f4d\u3001\u8de8\u9886\u57df\u7ec4\u5408\uff0c\u8ba9\u9006\u5411\u4e0e\u5b89\u5168\u7814\u7a76\u6709\u65b9\u6cd5\u53ef\u67e5\u3001\u8bc1\u636e\u53ef\u5faa\u3001\u7ecf\u9a8c\u53ef\u590d\u7528\u3002",
+        "stars": 13,
         "language": null,
-        "created_at": "2026-10-23T09:14:42Z",
-        "updated_at": "2026-10-23T20:33:39Z"
-    },
-    {
-        "name": "GS-HID-Script-Tool",
-        "url": "https://github.com/Ghoststrats/GS-HID-Script-Tool",
-        "description": "GS HID Script is a free, beginner-friendly cybersecurity education tool created by GhostStrats. Learn, build, simulate, and test keyboard and mouse automation using simple, easy-to-understand commands. Features include a visual script builder, hands-on testing, DuckyScript converter, and built-in safety controls. ",
-        "stars": 11,
-        "language": null,
-        "created_at": "2026-10-19T19:40:37Z",
-        "updated_at": "2026-10-24T01:57:22Z"
+        "created_at": "2026-10-29T06:44:23Z",
+        "updated_at": "2026-11-01T00:33:51Z"
     }
 ]
