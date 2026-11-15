@@ -1,74 +1,65 @@
 [
     {
-        "name": "globalhackmap",
-        "url": "https://github.com/yorkeccak/globalhackmap",
-        "description": "Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on one globe, with sources and one-click fixes.",
-        "stars": 124,
-        "language": "TypeScript",
-        "created_at": "2026-11-02T17:22:31Z",
-        "updated_at": "2026-11-08T04:37:52Z"
-    },
-    {
-        "name": "DMA-Attack-rpocket-Firmware-Customization",
-        "url": "https://github.com/LightningjovRain/DMA-Attack-rpocket-Firmware-Customization",
-        "description": "This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board. It is intended for educational and research purposes only.",
-        "stars": 68,
-        "language": null,
-        "created_at": "2026-11-05T11:55:10Z",
-        "updated_at": "2026-11-07T17:47:09Z"
-    },
-    {
         "name": "UmbrellaSpoofer-resocket",
-        "url": "https://github.com/HardHunterweb/UmbrellaSpoofer-resocket",
+        "url": "https://github.com/Igniaemage/UmbrellaSpoofer-resocket",
         "description": "Umbrella Spoofer v2.0.4 scans hwid reset beside hwid checker. hwid ban tally, smbios board, volume label, nic oui, snapshot pair, disk serial, caller id, device fingerprint, webgl canvases. ",
-        "stars": 65,
-        "language": "HTML",
-        "created_at": "2026-11-05T12:01:01Z",
-        "updated_at": "2026-11-07T18:00:09Z"
-    },
-    {
-        "name": "SWE-agent-SWE-agent",
-        "url": "https://github.com/kIieret/SWE-agent-SWE-agent",
-        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
-        "stars": 55,
+        "stars": 81,
         "language": null,
-        "created_at": "2026-11-05T15:17:16Z",
-        "updated_at": "2026-11-05T17:45:03Z"
+        "created_at": "2026-11-12T17:00:03Z",
+        "updated_at": "2026-11-14T14:53:29Z"
     },
     {
-        "name": "security-threat-agent",
-        "url": "https://github.com/pendakwahteknologi/security-threat-agent",
-        "description": "A guide for building an AI agent that alerts you to new vulnerabilities, active exploitation and malicious packages. Includes Malaysian sources.",
-        "stars": 23,
-        "language": null,
-        "created_at": "2026-11-07T05:06:35Z",
-        "updated_at": "2026-11-08T04:09:09Z"
+        "name": "deepseek-uncensored",
+        "url": "https://github.com/routerhubSI/deepseek-uncensored",
+        "description": "Every uncensored and abliterated DeepSeek build \u2014 V4.1 Flash 1017 Abliterated (the pinned, reproducible build that ranks third on the AA Cyber benchmark), V4 Pro, the tuned variants, abliterated GGUF builds and a cyber red-team prompt library. Maintained by RouterHub.",
+        "stars": 71,
+        "language": "Python",
+        "created_at": "2026-11-12T04:44:07Z",
+        "updated_at": "2026-11-14T19:24:40Z"
     },
     {
-        "name": "sniperscope",
-        "url": "https://github.com/kamehameha-ctrl/sniperscope",
-        "description": "SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.",
-        "stars": 21,
-        "language": "JavaScript",
-        "created_at": "2026-11-03T11:59:49Z",
-        "updated_at": "2026-11-06T19:32:14Z"
+        "name": "colab-qwen38-g4",
+        "url": "https://github.com/mizorewww/colab-qwen38-g4",
+        "description": "One-click & interactive deployment of Qwen3.8-Flash-Next-CYBERSECURITY-NVFP4 (262K context + MTP NEXTN) on Google Colab G4 GPU (RTX PRO 6000 Blackwell 96GB)",
+        "stars": 53,
+        "language": "Python",
+        "created_at": "2026-11-10T09:01:25Z",
+        "updated_at": "2026-11-15T01:29:58Z"
     },
     {
-        "name": "ot-security-agent-skills",
-        "url": "https://github.com/selmux/ot-security-agent-skills",
-        "description": "Open-source AI Agent Skills for ICS/OT cybersecurity, industrial protocol forensics, and incident response.",
+        "name": "ctfd-flagprint",
+        "url": "https://github.com/rj-karan/ctfd-flagprint",
+        "description": "Stop flag sharing in CTFd: every team gets its own flag and its own files, and a shared flag tells you who leaked it.",
+        "stars": 19,
+        "language": "Python",
+        "created_at": "2026-11-11T05:39:32Z",
+        "updated_at": "2026-11-13T17:25:15Z"
+    },
+    {
+        "name": "unredact.tools",
+        "url": "https://github.com/NPCmillionaire/unredact.tools",
+        "description": "See what your files leak (GPS, serials, authors, failed redactions, deleted text, watermarks), then scrub them.",
         "stars": 14,
         "language": "Python",
-        "created_at": "2026-11-03T06:00:46Z",
-        "updated_at": "2026-11-05T14:20:55Z"
+        "created_at": "2026-11-12T19:23:51Z",
+        "updated_at": "2026-11-14T05:07:38Z"
     },
     {
-        "name": "HI-Cyber-Con-2026-CTF",
-        "url": "https://github.com/ushoxa/HI-Cyber-Con-2026-CTF",
-        "description": "Complete HI Cyber Con 2026 / HI CyberCon CTF collection: all 69 challenges documented with writeups, credited solution summaries & solver scripts. Fr4ctur3 (Only_AI), 2nd of 1,119 teams. Web, pwn, crypto, reverse engineering, forensics, OSINT, steg, blockchain, hardware & AI.",
-        "stars": 14,
-        "language": "Assembly",
-        "created_at": "2026-11-02T09:13:41Z",
-        "updated_at": "2026-11-06T12:03:29Z"
+        "name": "RiskKey",
+        "url": "https://github.com/Ayzen1003/RiskKey",
+        "description": "Automatisation d'une analyse de risques EBIOS RM : validation YAML, calcul de la menace et des niveaux de risque, matrices et rapport HTML autonome. Interface web locale et suggestions IA \u00e0 valider. Outil p\u00e9dagogique, non affili\u00e9 \u00e0 l'ANSSI.",
+        "stars": 12,
+        "language": "Python",
+        "created_at": "2026-11-10T19:42:18Z",
+        "updated_at": "2026-11-11T10:01:21Z"
+    },
+    {
+        "name": "MaldocTrace",
+        "url": "https://github.com/debugactiveprocess/MaldocTrace",
+        "description": "Malicious Office document analyzer for defenders, in Go. Emulates VBA and Excel 4.0 macros in a simulated sandbox, rebuilds stomped macros from p-code, detects Equation Editor, CVE-2017-0199 and CVE-2026-21509 exploits, and triages RTF, OneNote, emails and archives into a verdict and IOCs, without running the sample.",
+        "stars": 12,
+        "language": "Go",
+        "created_at": "2026-11-11T14:54:21Z",
+        "updated_at": "2026-11-14T08:53:54Z"
     }
 ]
